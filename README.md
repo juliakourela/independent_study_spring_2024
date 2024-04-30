@@ -2,4 +2,4 @@
 
 **Dependencies:** sklearn, pandas, numpy, matplotlib, seaborn
 
-**Usage:** python3 run_experiment.py
+**Usage:** ``python3 run_experiment.py``
