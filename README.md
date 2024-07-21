@@ -12,7 +12,7 @@ Runs experiment and outputs plots detailing random forest regression model's pre
 Creates single CSV comprised of concatenated data from:
 * [UNDP Human Development Index](https://hdr.undp.org/data-center/documentation-and-downloads)
 * [Global Data Lab Subnational Human Development Index](https://globaldatalab.org/shdi/)
-* [Data Portal for Cities EUI values (from previously procesunicipal validatioon data)](https://dataportalforcities.org/)
+* [Data Portal for Cities EUI values (from previously processed municipal validation data)](https://dataportalforcities.org/)
 * JHU APL Climate Zones
 
 **Dependencies:** geopandas, pandas, rasterio, numpy, tqdm, pyproj 
