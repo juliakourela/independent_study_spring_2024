@@ -1,0 +1,1787 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,"Health index","Educational index ","Income index"
+"Afghanistan","Asia/Pacific","AFG","Subnat","AFGr101","Central (Kabul Wardak Kapisa Logar Parwan Panjsher)",0.675,0.524,0.471
+"Afghanistan","Asia/Pacific","AFG","Subnat","AFGr102","Central Highlands (Bamyan Daikundi)",0.653,0.408,0.396
+"Afghanistan","Asia/Pacific","AFG","Subnat","AFGr103","East (Nangarhar Kunar Laghman Nooristan)",0.638,0.385,0.394
+"Afghanistan","Asia/Pacific","AFG","Subnat","AFGr104","North (Samangan Sar-e-Pul Balkh Jawzjan Faryab)",0.628,0.420,0.464
+"Afghanistan","Asia/Pacific","AFG","Subnat","AFGr105","North East (Baghlan Takhar Badakhshan Kunduz)",0.623,0.338,0.416
+"Afghanistan","Asia/Pacific","AFG","Subnat","AFGr106","South (Uruzgan Helmand Zabul Nimroz Kandahar)",0.643,0.242,0.434
+"Afghanistan","Asia/Pacific","AFG","Subnat","AFGr107","South East (Ghazni Paktya Paktika Khost)",0.684,0.370,0.425
+"Afghanistan","Asia/Pacific","AFG","Subnat","AFGr108","West (Ghor Herat Badghis Farah)",0.637,0.330,0.424
+"Albania","Europe","ALB","Subnat","ALBr201"," Berat",0.869,0.745,0.742
+"Albania","Europe","ALB","Subnat","ALBr202"," Diber",0.869,0.667,0.745
+"Albania","Europe","ALB","Subnat","ALBr203"," Durres",0.869,0.778,0.767
+"Albania","Europe","ALB","Subnat","ALBr204"," Elbasan",0.869,0.749,0.743
+"Albania","Europe","ALB","Subnat","ALBr205"," Fier",0.869,0.727,0.719
+"Albania","Europe","ALB","Subnat","ALBr206"," Gjirokaster",0.869,0.771,0.755
+"Albania","Europe","ALB","Subnat","ALBr207"," Korce",0.869,0.759,0.753
+"Albania","Europe","ALB","Subnat","ALBr208"," Kukes",0.869,0.654,0.753
+"Albania","Europe","ALB","Subnat","ALBr209"," Lezhe",0.869,0.715,0.737
+"Albania","Europe","ALB","Subnat","ALBr210"," Shkoder",0.869,0.731,0.763
+"Albania","Europe","ALB","Subnat","ALBr211"," Tirana",0.869,0.854,0.749
+"Albania","Europe","ALB","Subnat","ALBr212"," Vlore",0.869,0.797,0.751
+"Algeria","Africa","DZA","Subnat","DZAr104","Hauts Plateaux Centre (Djelfa, Laghouat, MSila)",0.860,0.617,0.708
+"Algeria","Africa","DZA","Subnat","DZAr105","Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)",0.861,0.659,0.700
+"Algeria","Africa","DZA","Subnat","DZAr106","Hauts Plateaux Ouest (Tiaret, Saida, Tissemsilt, Naama, El Bayadh)",0.871,0.632,0.705
+"Algeria","Africa","DZA","Subnat","DZAr101","Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Bejaia, Chlef, Ain Defla)",0.883,0.714,0.715
+"Algeria","Africa","DZA","Subnat","DZAr102","Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)",0.827,0.702,0.702
+"Algeria","Africa","DZA","Subnat","DZAr103","Nord Ouest (Oran, Tlemcen, Mostaganem, Ain Temouchent, Relizane, Sidi Bel Abbes, Mascara)",0.888,0.641,0.703
+"Algeria","Africa","DZA","Subnat","DZAr107","Sud (Bechar, Tindouf, Adrar, Ghardaia, Biskra, El Oued, Ouargla, Tamanrasset,Illizi)",0.853,0.665,0.707
+"Angola","Africa","AGO","Subnat","AGOr218"," Bengo",0.757,0.451,0.567
+"Angola","Africa","AGO","Subnat","AGOr209"," Benguela",0.529,0.488,0.575
+"Angola","Africa","AGO","Subnat","AGOr211"," Bie",0.640,0.394,0.498
+"Angola","Africa","AGO","Subnat","AGOr201"," Cabinda",0.723,0.649,0.673
+"Angola","Africa","AGO","Subnat","AGOr216"," Cunene",0.657,0.415,0.512
+"Angola","Africa","AGO","Subnat","AGOr210"," Huambo",0.610,0.455,0.551
+"Angola","Africa","AGO","Subnat","AGOr215"," Huila",0.572,0.448,0.537
+"Angola","Africa","AGO","Subnat","AGOr213"," Kuando Kubango",0.656,0.377,0.527
+"Angola","Africa","AGO","Subnat","AGOr205"," Kuanza Norte",0.624,0.465,0.549
+"Angola","Africa","AGO","Subnat","AGOr206"," Kuanza Sul",0.544,0.331,0.508
+"Angola","Africa","AGO","Subnat","AGOr204"," Luanda",0.711,0.654,0.743
+"Angola","Africa","AGO","Subnat","AGOr208"," Lunda Norte",0.681,0.388,0.537
+"Angola","Africa","AGO","Subnat","AGOr217"," Lunda Sul",0.717,0.489,0.561
+"Angola","Africa","AGO","Subnat","AGOr207"," Malange",0.691,0.464,0.568
+"Angola","Africa","AGO","Subnat","AGOr212"," Moxico",0.628,0.396,0.516
+"Angola","Africa","AGO","Subnat","AGOr214"," Namibe",0.617,0.541,0.592
+"Angola","Africa","AGO","Subnat","AGOr203"," Uige",0.655,0.473,0.511
+"Angola","Africa","AGO","Subnat","AGOr202"," Zaire",0.698,0.556,0.601
+"Argentina urban","America","ARG","Subnat","ARGr104","Cuyo",0.852,0.861,0.812
+"Argentina urban","America","ARG","Subnat","ARGr101","Gran Buenos Aires",0.852,0.876,0.805
+"Argentina urban","America","ARG","Subnat","ARGr103","NEA",0.852,0.837,0.800
+"Argentina urban","America","ARG","Subnat","ARGr102","NOA",0.852,0.875,0.810
+"Argentina urban","America","ARG","Subnat","ARGr105","Pampeana",0.852,0.863,0.809
+"Argentina urban","America","ARG","Subnat","ARGr106","Patagonia",0.852,0.859,0.818
+"Armenia","Europe","ARM","Subnat","ARMr101","Aragatsotn",0.801,0.713,0.720
+"Armenia","Europe","ARM","Subnat","ARMr102","Ararat",0.801,0.688,0.729
+"Armenia","Europe","ARM","Subnat","ARMr103","Armavir",0.801,0.680,0.710
+"Armenia","Europe","ARM","Subnat","ARMr104","Gegharkunik",0.801,0.670,0.704
+"Armenia","Europe","ARM","Subnat","ARMr106","Kotayk",0.801,0.745,0.752
+"Armenia","Europe","ARM","Subnat","ARMr105","Lori",0.801,0.706,0.714
+"Armenia","Europe","ARM","Subnat","ARMr107","Shirak",0.801,0.736,0.734
+"Armenia","Europe","ARM","Subnat","ARMr108","Syunik",0.801,0.725,0.735
+"Armenia","Europe","ARM","Subnat","ARMr110","Tavush",0.801,0.712,0.731
+"Armenia","Europe","ARM","Subnat","ARMr109","Vayots Dzor",0.801,0.732,0.735
+"Armenia","Europe","ARM","Subnat","ARMr111","Yerevan",0.801,0.821,0.761
+"Australia","Asia/Pacific","AUS","Subnat","AUSr108","Australian Capital Territory",1.000,0.960,0.981
+"Australia","Asia/Pacific","AUS","Subnat","AUSr101","New South Wales",0.992,0.927,0.939
+"Australia","Asia/Pacific","AUS","Subnat","AUSr107","Northern Territory",0.917,0.920,0.984
+"Australia","Asia/Pacific","AUS","Subnat","AUSr103","Queensland",0.987,0.917,0.929
+"Australia","Asia/Pacific","AUS","Subnat","AUSr104","South Australia",0.991,0.917,0.912
+"Australia","Asia/Pacific","AUS","Subnat","AUSr106","Tasmania",0.970,0.906,0.889
+"Australia","Asia/Pacific","AUS","Subnat","AUSr102","Victoria",0.999,0.927,0.921
+"Australia","Asia/Pacific","AUS","Subnat","AUSr105","Western Australia",0.998,0.923,0.980
+"Austria","Europe","AUT","Subnat","AUTr101","Burgenland",0.946,0.803,0.896
+"Austria","Europe","AUT","Subnat","AUTr104","Karnten",0.950,0.831,0.925
+"Austria","Europe","AUT","Subnat","AUTr102","Niederosterreich",0.943,0.790,0.919
+"Austria","Europe","AUT","Subnat","AUTr106","Oberosterreich",0.952,0.823,0.953
+"Austria","Europe","AUT","Subnat","AUTr107","Salzburg",0.959,0.868,0.977
+"Austria","Europe","AUT","Subnat","AUTr105","Steiermark",0.950,0.856,0.935
+"Austria","Europe","AUT","Subnat","AUTr108","Tirol",0.963,0.864,0.960
+"Austria","Europe","AUT","Subnat","AUTr109","Vorarlberg",0.967,0.793,0.961
+"Austria","Europe","AUT","Subnat","AUTr103","Wien",0.932,0.921,0.974
+"Azerbaijan","Europe","AZE","Subnat","AZEr102","Absheron",0.788,0.777,0.803
+"Azerbaijan","Europe","AZE","Subnat","AZEr107","Aran",0.720,0.676,0.698
+"Azerbaijan","Europe","AZE","Subnat","AZEr101","Baku",0.806,0.803,0.833
+"Azerbaijan","Europe","AZE","Subnat","AZEr109","Dakhlik Shirvan",0.782,0.664,0.696
+"Azerbaijan","Europe","AZE","Subnat","AZEr103","Ganja Gazakh",0.719,0.708,0.700
+"Azerbaijan","Europe","AZE","Subnat","AZEr106","Guba Khachmaz",0.784,0.674,0.715
+"Azerbaijan","Europe","AZE","Subnat","AZEr105","Lankaran",0.773,0.658,0.685
+"Azerbaijan","Europe","AZE","Subnat","AZEr104","Shaki Zaqatala",0.826,0.721,0.710
+"Azerbaijan","Europe","AZE","Subnat","AZEr108","Yukhari Karabakh",0.688,0.690,0.696
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr214"," Bagerhat, Khulna, Satkhira",0.807,0.647,0.597
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr204"," Bandarban, Cox s Bazar",0.783,0.513,0.532
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr202"," Barguna, Bhola, Patuakhali",0.803,0.579,0.539
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr201"," Barisal, Jhalokati, Pirojpur",0.800,0.649,0.572
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr219"," Bogra, Gaibandha, Jaypurhat",0.809,0.602,0.578
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr207"," Brahmanbaria, Chandpur, Comilla",0.816,0.578,0.633
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr203"," Chittagong",0.774,0.637,0.651
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr216"," Chuadanga, Jhenaidah, Kushtia, Meherpur",0.811,0.611,0.614
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr208"," Dhaka",0.830,0.701,0.712
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr220"," Dinajpur, Nilphamari, Panchagarh, Thakurgaon",0.805,0.609,0.582
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr212"," Faridpur, Manikganj, Rajbari",0.834,0.566,0.594
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr206"," Feni, Lakshmipur, Noakhali",0.803,0.586,0.600
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr209"," Gazipur, Narayanganj, Narsingdi",0.790,0.588,0.641
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr213"," Gopalganj, Madaripur, Munshiganj, Shariatpur",0.834,0.558,0.616
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr223"," Habiganj, Sunamganj",0.764,0.498,0.567
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr210"," Jamalpur, Sherpur, Tangail",0.800,0.559,0.586
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr215"," Jessore, Magura, Narail",0.847,0.632,0.615
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr205"," Khagrachhari, Rangamati (Chattagram)",0.789,0.559,0.533
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr211"," Kishoreganj, Mymensingh, Netrakona",0.807,0.522,0.566
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr221"," Kurigram, Lalmonirhat, Rangpur",0.802,0.569,0.552
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr222"," Maulvibazar, Sylhet",0.817,0.562,0.624
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr217"," Naogaon, Nawabganj, Rajshahi",0.823,0.612,0.600
+"Bangladesh","Asia/Pacific","BGD","Subnat","BGDr218"," Natore, Pabna, Sirajganj",0.784,0.569,0.586
+"Barbados","America","BRB","Subnat","BRBr102","Christ Church and St. Philip",0.886,0.777,0.734
+"Barbados","America","BRB","Subnat","BRBr101","St Michael",0.886,0.751,0.720
+"Barbados","America","BRB","Subnat","BRBr103","St. James, St. George, and St. Thomas",0.886,0.794,0.734
+"Barbados","America","BRB","Subnat","BRBr104","St. Lucy, St. Peter, St. Andrew, St. Joseph, and St. John",0.886,0.747,0.721
+"Belarus","Europe","BLR","Subnat","BLRr101","Brest region",0.807,0.815,0.778
+"Belarus","Europe","BLR","Subnat","BLRr103","Gomel region",0.807,0.828,0.790
+"Belarus","Europe","BLR","Subnat","BLRr104","Grodno region",0.807,0.807,0.802
+"Belarus","Europe","BLR","Subnat","BLRr105","Minsk region",0.807,0.848,0.801
+"Belarus","Europe","BLR","Subnat","BLRr106","Mogilev region",0.807,0.803,0.781
+"Belarus","Europe","BLR","Subnat","BLRr102","Vitebsk region",0.807,0.809,0.783
+"Belgium","Europe","BEL","Subnat","BELr101","Bruxelles - Brussel",0.944,0.917,1.000
+"Belgium","Europe","BEL","Subnat","BELr102","Prov. Antwerpen",0.967,0.912,0.972
+"Belgium","Europe","BEL","Subnat","BELr107","Prov. Brabant Wallon",0.967,0.909,0.980
+"Belgium","Europe","BEL","Subnat","BELr108","Prov. Hainaut",0.913,0.892,0.874
+"Belgium","Europe","BEL","Subnat","BELr109","Prov. Liege",0.928,0.902,0.893
+"Belgium","Europe","BEL","Subnat","BELr103","Prov. Limburg",0.971,0.907,0.913
+"Belgium","Europe","BEL","Subnat","BELr110","Prov. Luxembourg",0.928,0.914,0.871
+"Belgium","Europe","BEL","Subnat","BELr111","Prov. Namur",0.925,0.906,0.885
+"Belgium","Europe","BEL","Subnat","BELr104","Prov. Oost-Vlaanderen",0.961,0.918,0.931
+"Belgium","Europe","BEL","Subnat","BELr105","Prov. Vlaams-Brabant",0.973,0.917,0.958
+"Belgium","Europe","BEL","Subnat","BELr106","Prov. West-Vlaanderen",0.970,0.910,0.941
+"Belize","America","BLZ","Subnat","BLZr102","Belize",0.738,0.751,0.653
+"Belize","America","BLZ","Subnat","BLZr103","Cayo",0.757,0.562,0.533
+"Belize","America","BLZ","Subnat","BLZr101","Corozal, Orange Walk",0.788,0.581,0.617
+"Belize","America","BLZ","Subnat","BLZr104","Stann Creek, Toledo",0.801,0.658,0.633
+"Benin","Africa","BEN","Subnat","BENr101","Atacora (incl Donga)",0.574,0.377,0.515
+"Benin","Africa","BEN","Subnat","BENr102","Atlantique (incl Littoral (Cotonou))",0.622,0.649,0.591
+"Benin","Africa","BEN","Subnat","BENr103","Borgou (incl Alibori)",0.631,0.261,0.511
+"Benin","Africa","BEN","Subnat","BENr104","Mono (incl Couffo)",0.600,0.485,0.493
+"Benin","Africa","BEN","Subnat","BENr105","Queme (incl Plateau)",0.630,0.497,0.540
+"Benin","Africa","BEN","Subnat","BENr106","Zou (incl Collines)",0.606,0.480,0.527
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr101","Bumthang",0.783,0.549,0.706
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr102","Chukha",0.746,0.640,0.718
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr103","Dagana",0.829,0.464,0.601
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr104","Gasa",0.685,0.394,0.598
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr105","Haa",0.900,0.554,0.728
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr106","Lhuntse",0.885,0.409,0.622
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr107","Mongar",0.763,0.456,0.649
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr108","Paro",0.900,0.586,0.757
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr109","Pemagatshel",0.765,0.481,0.624
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr110","Punakha",0.804,0.520,0.707
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr111","Samdrup jongkhar",0.731,0.495,0.662
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr112","Samtse",0.764,0.489,0.664
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr113","Sarpang",0.842,0.573,0.704
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr114","Thimphu",0.905,0.790,0.806
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr115","Trashigang",0.738,0.422,0.634
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr116","Trashiyangtse",0.791,0.408,0.652
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr117","Trongsa",0.777,0.492,0.636
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr118","Tsirang",0.825,0.500,0.629
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr119","Wangdi",0.810,0.425,0.665
+"Bhutan","Asia/Pacific","BTN","Subnat","BTNr120","Zhemgang",0.807,0.460,0.607
+"Bolivia","America","BOL","Subnat","BOLr108","Beni",0.712,0.763,0.629
+"Bolivia","America","BOL","Subnat","BOLr101","Chuquisaca",0.714,0.667,0.617
+"Bolivia","America","BOL","Subnat","BOLr103","Cochabamba",0.654,0.721,0.672
+"Bolivia","America","BOL","Subnat","BOLr102","La Paz",0.661,0.770,0.653
+"Bolivia","America","BOL","Subnat","BOLr104","Oruro",0.686,0.765,0.656
+"Bolivia","America","BOL","Subnat","BOLr109","Pando",0.700,0.795,0.663
+"Bolivia","America","BOL","Subnat","BOLr105","Potosi",0.584,0.635,0.600
+"Bolivia","America","BOL","Subnat","BOLr107","Santa Cruz",0.735,0.796,0.722
+"Bolivia","America","BOL","Subnat","BOLr106","Tarija",0.730,0.719,0.696
+"Bosnia and Herzegovina","Europe","BIH","Subnat","BIHr103","Central Bosnia",0.851,0.735,0.765
+"Bosnia and Herzegovina","Europe","BIH","Subnat","BIHr102","Northern Bosnia",0.851,0.729,0.744
+"Bosnia and Herzegovina","Europe","BIH","Subnat","BIHr105","Republica Srpska",0.851,0.732,0.752
+"Bosnia and Herzegovina","Europe","BIH","Subnat","BIHr101","Western Bosnia",0.851,0.698,0.780
+"Bosnia and Herzegovina","Europe","BIH","Subnat","BIHr104","Western herzegovina",0.851,0.786,0.773
+"Botswana","Africa","BWA","Subnat","BWAr101","Central",0.630,0.642,0.748
+"Botswana","Africa","BWA","Subnat","BWAr110","Chobe",0.600,0.660,0.753
+"Botswana","Africa","BWA","Subnat","BWAr102","Ghanzi",0.627,0.581,0.734
+"Botswana","Africa","BWA","Subnat","BWAr103","Kgalagadi",0.623,0.625,0.742
+"Botswana","Africa","BWA","Subnat","BWAr104","Kgatleng",0.651,0.697,0.781
+"Botswana","Africa","BWA","Subnat","BWAr105","Kweneng",0.647,0.643,0.753
+"Botswana","Africa","BWA","Subnat","BWAr106","North-East",0.640,0.705,0.797
+"Botswana","Africa","BWA","Subnat","BWAr107","North-West, Ngamiland",0.612,0.650,0.716
+"Botswana","Africa","BWA","Subnat","BWAr108","South-East",0.634,0.849,0.848
+"Botswana","Africa","BWA","Subnat","BWAr109","Southern",0.633,0.652,0.752
+"Brazil","America","BRA","Subnat","BRAr102","Acre",0.796,0.661,0.676
+"Brazil","America","BRA","Subnat","BRAr114","Alagoas",0.782,0.641,0.719
+"Brazil","America","BRA","Subnat","BRAr106","Amapa",0.814,0.715,0.701
+"Brazil","America","BRA","Subnat","BRAr103","Amazonas",0.812,0.693,0.693
+"Brazil","America","BRA","Subnat","BRAr116","Bahia",0.796,0.671,0.723
+"Brazil","America","BRA","Subnat","BRAr110","Ceara",0.809,0.654,0.724
+"Brazil","America","BRA","Subnat","BRAr127","Distrito Federal",0.849,0.818,0.782
+"Brazil","America","BRA","Subnat","BRAr118","Espirito Santo",0.809,0.703,0.762
+"Brazil","America","BRA","Subnat","BRAr126","Goias",0.820,0.706,0.761
+"Brazil","America","BRA","Subnat","BRAr108","Maranhao",0.782,0.641,0.678
+"Brazil","America","BRA","Subnat","BRAr125","Mato Grosso",0.820,0.692,0.746
+"Brazil","America","BRA","Subnat","BRAr124","Mato Grosso do Sul",0.813,0.706,0.755
+"Brazil","America","BRA","Subnat","BRAr117","Minas Gerais",0.819,0.690,0.760
+"Brazil","America","BRA","Subnat","BRAr105","Para",0.798,0.669,0.676
+"Brazil","America","BRA","Subnat","BRAr112","Paraiba",0.798,0.663,0.732
+"Brazil","America","BRA","Subnat","BRAr121","Parana",0.816,0.711,0.767
+"Brazil","America","BRA","Subnat","BRAr113","Pernambuco",0.795,0.668,0.731
+"Brazil","America","BRA","Subnat","BRAr109","Piaui",0.763,0.662,0.701
+"Brazil","America","BRA","Subnat","BRAr119","Rio de Janeiro",0.837,0.752,0.763
+"Brazil","America","BRA","Subnat","BRAr111","Rio Grande do Norte",0.798,0.689,0.747
+"Brazil","America","BRA","Subnat","BRAr123","Rio Grande do Sul",0.826,0.720,0.765
+"Brazil","America","BRA","Subnat","BRAr101","Rondonia",0.818,0.665,0.707
+"Brazil","America","BRA","Subnat","BRAr104","Roraima",0.847,0.710,0.718
+"Brazil","America","BRA","Subnat","BRAr122","Santa Catarina",0.826,0.714,0.770
+"Brazil","America","BRA","Subnat","BRAr120","Sao Paulo",0.831,0.735,0.778
+"Brazil","America","BRA","Subnat","BRAr115","Sergipe",0.801,0.682,0.740
+"Brazil","America","BRA","Subnat","BRAr107","Tocantins",0.819,0.688,0.727
+"Bulgaria","Europe","BGR","Subnat","BGRr102","Severen tsentralen",0.788,0.757,0.755
+"Bulgaria","Europe","BGR","Subnat","BGRr103","Severoiztochen",0.795,0.737,0.779
+"Bulgaria","Europe","BGR","Subnat","BGRr101","Severozapaden",0.776,0.704,0.740
+"Bulgaria","Europe","BGR","Subnat","BGRr104","Yugoiztochen",0.788,0.700,0.774
+"Bulgaria","Europe","BGR","Subnat","BGRr105","Yugozapaden",0.810,0.851,0.909
+"Bulgaria","Europe","BGR","Subnat","BGRr106","Yuzhen tsentralen",0.802,0.739,0.764
+"Burkina Faso","Africa","BFA","Subnat","BFAr101","Boucle de Mouhoun",0.623,0.264,0.433
+"Burkina Faso","Africa","BFA","Subnat","BFAr102","Cascades",0.575,0.347,0.479
+"Burkina Faso","Africa","BFA","Subnat","BFAr103","Centre (incl Ouagadougou)",0.701,0.674,0.582
+"Burkina Faso","Africa","BFA","Subnat","BFAr104","Centre-Est",0.727,0.248,0.456
+"Burkina Faso","Africa","BFA","Subnat","BFAr105","Centre-Nord",0.655,0.222,0.443
+"Burkina Faso","Africa","BFA","Subnat","BFAr106","Centre-Ouest",0.612,0.335,0.449
+"Burkina Faso","Africa","BFA","Subnat","BFAr107","Centre-Sud",0.637,0.331,0.442
+"Burkina Faso","Africa","BFA","Subnat","BFAr108","Est",0.557,0.185,0.416
+"Burkina Faso","Africa","BFA","Subnat","BFAr109","Hauts Bassins",0.614,0.403,0.495
+"Burkina Faso","Africa","BFA","Subnat","BFAr110","Nord",0.596,0.301,0.451
+"Burkina Faso","Africa","BFA","Subnat","BFAr111","Plateau Central",0.620,0.292,0.457
+"Burkina Faso","Africa","BFA","Subnat","BFAr112","Sahel",0.520,0.117,0.384
+"Burkina Faso","Africa","BFA","Subnat","BFAr113","Sud-Ouest",0.548,0.219,0.417
+"Burundi","Africa","BDI","Subnat","BDIr103","East (Cankuzo, Rutana, Ruyigi )",0.668,0.355,0.289
+"Burundi","Africa","BDI","Subnat","BDIr105","Middle (Gitega, Karuzi, Muramvya, Mwaro)",0.657,0.407,0.295
+"Burundi","Africa","BDI","Subnat","BDIr101","North (Kayanza, Kirundo, Muyinga, Ngozi)",0.587,0.330,0.279
+"Burundi","Africa","BDI","Subnat","BDIr102","South (Bururi, Makamba)",0.692,0.448,0.313
+"Burundi","Africa","BDI","Subnat","BDIr104","West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",0.661,0.483,0.335
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr101","Banteay Mean Chey",0.802,0.453,0.590
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr113","Bat Dambang-Krong Pailin",0.789,0.512,0.587
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr102","Kampong Cham (incl Tboung Khmum)",0.763,0.447,0.537
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr103","Kampong Chhnang",0.745,0.485,0.526
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr104","Kampong Spueu",0.805,0.466,0.534
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr105","Kampong Thum",0.734,0.449,0.526
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr114","Kampot-Krong Kaeb-Krong Preah Sihanouk",0.776,0.508,0.540
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr106","Kandal",0.781,0.478,0.586
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr107","Kaoh Kong",0.759,0.529,0.593
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr116","Mondol Kiri-Rotanak Kiri",0.691,0.383,0.536
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr108","Phnom Penh",0.824,0.669,0.703
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr110","Pousat",0.792,0.439,0.511
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr115","Preah Vihear-Stueng Traeng-Kracheh",0.694,0.405,0.500
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr109","Prey Veaeng",0.702,0.479,0.553
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr117","Siem Reab-Otdar Mean Chey",0.750,0.419,0.537
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr111","Svay Rieng",0.728,0.513,0.547
+"Cambodia","Asia/Pacific","KHM","Subnat","KHMr112","Takaev",0.803,0.536,0.559
+"Cameroon","Africa","CMR","Subnat","CMRr101","Adamaoua",0.608,0.403,0.492
+"Cameroon","Africa","CMR","Subnat","CMRr102","Centre (incl Yaounde)",0.659,0.713,0.599
+"Cameroon","Africa","CMR","Subnat","CMRr103","Est",0.564,0.542,0.494
+"Cameroon","Africa","CMR","Subnat","CMRr104","Extreme Nord",0.598,0.373,0.443
+"Cameroon","Africa","CMR","Subnat","CMRr105","Littoral (incl Douala)",0.711,0.741,0.633
+"Cameroon","Africa","CMR","Subnat","CMRr106","Nord",0.547,0.380,0.453
+"Cameroon","Africa","CMR","Subnat","CMRr107","Nord Ouest",0.688,0.461,0.522
+"Cameroon","Africa","CMR","Subnat","CMRr108","Ouest",0.643,0.650,0.559
+"Cameroon","Africa","CMR","Subnat","CMRr109","Sud",0.622,0.674,0.559
+"Cameroon","Africa","CMR","Subnat","CMRr110","Sud Ouest",0.670,0.664,0.654
+"Canada","America","CAN","Subnat","CANr109","Alberta",0.956,0.927,0.981
+"Canada","America","CAN","Subnat","CANr110","British Columbia",0.972,0.939,0.923
+"Canada","America","CAN","Subnat","CANr107","Manitoba",0.933,0.885,0.916
+"Canada","America","CAN","Subnat","CANr104","New Brunswick",0.944,0.876,0.893
+"Canada","America","CAN","Subnat","CANr101","Newfoundland and Labrador",0.924,0.845,0.933
+"Canada","America","CAN","Subnat","CANr103","Nova Scotia",0.941,0.899,0.889
+"Canada","America","CAN","Subnat","CANr106","Ontario",0.972,0.930,0.929
+"Canada","America","CAN","Subnat","CANr102","Prince Edward Island, Yukon Territory, Northwest Territories, Nunavut",0.960,0.889,0.944
+"Canada","America","CAN","Subnat","CANr105","Quebec",0.970,0.898,0.901
+"Canada","America","CAN","Subnat","CANr108","Saskatchewan",0.936,0.883,0.965
+"Cape Verde","Africa","CPV","Subnat","CPVr105","Fogo",0.832,0.580,0.618
+"Cape Verde","Africa","CPV","Subnat","CPVr101","S.Antao",0.832,0.522,0.612
+"Cape Verde","Africa","CPV","Subnat","CPVr102","S.Vicente",0.832,0.596,0.652
+"Cape Verde","Africa","CPV","Subnat","CPVr104","Santiago- Praia",0.832,0.632,0.646
+"Cape Verde","Africa","CPV","Subnat","CPVr103","Santiago-Interior",0.832,0.454,0.588
+"Central African Republic CAR","Africa","CAF","Subnat","CAFr106","Bangui",0.591,0.599,0.460
+"Central African Republic CAR","Africa","CAF","Subnat","CAFr101","RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi, Ouaka)",0.501,0.380,0.340
+"Central African Republic CAR","Africa","CAF","Subnat","CAFr102","RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)",0.550,0.309,0.331
+"Central African Republic CAR","Africa","CAF","Subnat","CAFr103","RS III (Ouham Pende, Ouham)",0.515,0.290,0.316
+"Central African Republic CAR","Africa","CAF","Subnat","CAFr104","RS IV (Haute-Kotto, Baminigui Bangoran, Vakaga)",0.581,0.303,0.330
+"Central African Republic CAR","Africa","CAF","Subnat","CAFr105","RS V (Basse Kotto, Mbornou, Houte Mbormou)",0.483,0.264,0.309
+"Chad","Africa","TCD","Subnat","TCDr101","Zone 1 (N'Djamena)",0.552,0.520,0.525
+"Chad","Africa","TCD","Subnat","TCDr102","Zone 2 (Borkou, Ennedi, Tibesti, Kanem, Barh El Gazal, Lac)",0.567,0.086,0.399
+"Chad","Africa","TCD","Subnat","TCDr103","Zone 3 (Guera, Batha, Salamat)",0.550,0.178,0.381
+"Chad","Africa","TCD","Subnat","TCDr104","Zone 4 (Ouaddai, Assongha, Sila, Biltine - Wadi Fira)",0.591,0.110,0.380
+"Chad","Africa","TCD","Subnat","TCDr105","Zone 5 (Chari-Baguimi, Dababa, Baguirmi, Hadjer Lamis)",0.466,0.125,0.396
+"Chad","Africa","TCD","Subnat","TCDr106","Zone 6 (Mayo-Kebbi Est and Ouest)",0.497,0.490,0.394
+"Chad","Africa","TCD","Subnat","TCDr107","Zone 7 (Logone Occidental & Oriental, Monts de Lam, Tandjile Est & Ouest)",0.428,0.438,0.376
+"Chad","Africa","TCD","Subnat","TCDr108","Zone 8 (Mandoul, Moyen-Chari, Bahr Koh, Lac Iro)",0.486,0.439,0.379
+"Chili","America","CHL","Subnat","CHLr111","Aisen",0.903,0.736,0.802
+"Chili","America","CHL","Subnat","CHLr102","Antofagasta",0.877,0.906,0.846
+"Chili","America","CHL","Subnat","CHLr109","Arbucania",0.890,0.705,0.786
+"Chili","America","CHL","Subnat","CHLr103","Atacama",0.934,0.822,0.825
+"Chili","America","CHL","Subnat","CHLr108","Bio Bio",0.911,0.767,0.816
+"Chili","America","CHL","Subnat","CHLr104","Coquimbo",0.919,0.780,0.809
+"Chili","America","CHL","Subnat","CHLr110","Los Lagos (incl Los Rios)",0.904,0.707,0.798
+"Chili","America","CHL","Subnat","CHLr112","Magallanes and La Antartica Chilena",0.893,0.862,0.847
+"Chili","America","CHL","Subnat","CHLr107","Maule",0.888,0.699,0.807
+"Chili","America","CHL","Subnat","CHLr106","OHiggins",0.913,0.745,0.822
+"Chili","America","CHL","Subnat","CHLr113","Region Metropolitana",0.910,0.895,0.853
+"Chili","America","CHL","Subnat","CHLr101","Tarapaca (incl Arica and Parinacota)",0.918,0.900,0.832
+"Chili","America","CHL","Subnat","CHLr105","Valparaiso (former Aconcagua)",0.911,0.863,0.839
+"China","Asia/Pacific","CHN","Subnat","CHNr112","Anhui",0.893,0.615,0.752
+"China","Asia/Pacific","CHN","Subnat","CHNr101","Beijing",0.975,0.844,0.908
+"China","Asia/Pacific","CHN","Subnat","CHNr122","Chongqing",0.903,0.650,0.792
+"China","Asia/Pacific","CHN","Subnat","CHNr113","Fujian",0.904,0.610,0.843
+"China","Asia/Pacific","CHN","Subnat","CHNr128","Gansu",0.847,0.588,0.667
+"China","Asia/Pacific","CHN","Subnat","CHNr119","Guangdong",0.916,0.676,0.825
+"China","Asia/Pacific","CHN","Subnat","CHNr120","Guangxi",0.893,0.627,0.707
+"China","Asia/Pacific","CHN","Subnat","CHNr124","Guizhou",0.829,0.553,0.718
+"China","Asia/Pacific","CHN","Subnat","CHNr121","Hainan",0.912,0.665,0.748
+"China","Asia/Pacific","CHN","Subnat","CHNr103","Hebei",0.891,0.644,0.717
+"China","Asia/Pacific","CHN","Subnat","CHNr108","Heilongjiang",0.907,0.665,0.680
+"China","Asia/Pacific","CHN","Subnat","CHNr116","Henan",0.885,0.634,0.746
+"China","Asia/Pacific","CHN","Subnat","CHNr117","Hubei",0.890,0.660,0.794
+"China","Asia/Pacific","CHN","Subnat","CHNr118","Hunan",0.887,0.663,0.751
+"China","Asia/Pacific","CHN","Subnat","CHNr105","Inner Mongolia",0.883,0.686,0.775
+"China","Asia/Pacific","CHN","Subnat","CHNr110","Jiangsu",0.918,0.669,0.864
+"China","Asia/Pacific","CHN","Subnat","CHNr114","Jiangxi",0.881,0.641,0.738
+"China","Asia/Pacific","CHN","Subnat","CHNr107","Jilin",0.911,0.657,0.708
+"China","Asia/Pacific","CHN","Subnat","CHNr106","Liaoning",0.914,0.693,0.749
+"China","Asia/Pacific","CHN","Subnat","CHNr130","Ningxia",0.866,0.617,0.742
+"China","Asia/Pacific","CHN","Subnat","CHNr129","Qinghai",0.811,0.571,0.725
+"China","Asia/Pacific","CHN","Subnat","CHNr127","Shaanxi",0.887,0.661,0.772
+"China","Asia/Pacific","CHN","Subnat","CHNr115","Shandong",0.915,0.626,0.780
+"China","Asia/Pacific","CHN","Subnat","CHNr109","Shanghai",0.976,0.775,0.901
+"China","Asia/Pacific","CHN","Subnat","CHNr104","Shanxi",0.890,0.685,0.715
+"China","Asia/Pacific","CHN","Subnat","CHNr123","Sichuan",0.888,0.614,0.745
+"China","Asia/Pacific","CHN","Subnat","CHNr102","Tianjin",0.954,0.772,0.818
+"China","Asia/Pacific","CHN","Subnat","CHNr126","Tibet",0.782,0.407,0.726
+"China","Asia/Pacific","CHN","Subnat","CHNr131","Xinjiang",0.849,0.638,0.742
+"China","Asia/Pacific","CHN","Subnat","CHNr125","Yunnan",0.804,0.583,0.723
+"China","Asia/Pacific","CHN","Subnat","CHNr111","Zhejiang",0.935,0.650,0.845
+"Colombia","America","COL","Subnat","COLr129","Amazonas",0.765,0.678,0.668
+"Colombia","America","COL","Subnat","COLr101","Antioquia (incl Medellin)",0.819,0.692,0.765
+"Colombia","America","COL","Subnat","COLr125","Arauca",0.801,0.645,0.738
+"Colombia","America","COL","Subnat","COLr102","Atlantico (incl Barranquilla)",0.810,0.741,0.763
+"Colombia","America","COL","Subnat","COLr103","Bogota D.C.",0.820,0.785,0.787
+"Colombia","America","COL","Subnat","COLr104","Bolivar (Sur and Norte)",0.821,0.689,0.719
+"Colombia","America","COL","Subnat","COLr105","Boyaca",0.822,0.679,0.740
+"Colombia","America","COL","Subnat","COLr106","Caldas",0.836,0.691,0.769
+"Colombia","America","COL","Subnat","COLr107","Caqueta",0.814,0.606,0.703
+"Colombia","America","COL","Subnat","COLr126","Casanare",0.823,0.661,0.728
+"Colombia","America","COL","Subnat","COLr108","Cauca",0.802,0.623,0.699
+"Colombia","America","COL","Subnat","COLr109","Cesar",0.791,0.652,0.708
+"Colombia","America","COL","Subnat","COLr112","Choco",0.774,0.645,0.634
+"Colombia","America","COL","Subnat","COLr110","Cordoba",0.808,0.621,0.688
+"Colombia","America","COL","Subnat","COLr111","Cundinamarca",0.833,0.689,0.761
+"Colombia","America","COL","Subnat","COLr130","Guainja",0.819,0.578,0.596
+"Colombia","America","COL","Subnat","COLr114","Guajira",0.716,0.667,0.661
+"Colombia","America","COL","Subnat","COLr131","Guaviare",0.817,0.683,0.726
+"Colombia","America","COL","Subnat","COLr113","Huila",0.818,0.589,0.747
+"Colombia","America","COL","Subnat","COLr115","Magdalena",0.795,0.643,0.704
+"Colombia","America","COL","Subnat","COLr116","Meta",0.846,0.696,0.753
+"Colombia","America","COL","Subnat","COLr117","Narino",0.811,0.622,0.701
+"Colombia","America","COL","Subnat","COLr118","Norte de Santander",0.802,0.657,0.752
+"Colombia","America","COL","Subnat","COLr127","Putumayo",0.770,0.637,0.707
+"Colombia","America","COL","Subnat","COLr119","Quindio",0.828,0.703,0.781
+"Colombia","America","COL","Subnat","COLr120","Risaralda",0.822,0.655,0.772
+"Colombia","America","COL","Subnat","COLr128","San Andres",0.817,0.743,0.762
+"Colombia","America","COL","Subnat","COLr121","Santander",0.814,0.710,0.767
+"Colombia","America","COL","Subnat","COLr122","Sucre",0.830,0.653,0.713
+"Colombia","America","COL","Subnat","COLr123","Tolima",0.818,0.660,0.726
+"Colombia","America","COL","Subnat","COLr124","Valle (incl Cali)",0.826,0.725,0.779
+"Colombia","America","COL","Subnat","COLr132","Vaupis",0.728,0.620,0.542
+"Colombia","America","COL","Subnat","COLr133","Vichada",0.820,0.666,0.739
+"Comoros","Africa","COM","Subnat","COMr103","Anjouan (Ndzouani)",0.680,0.456,0.508
+"Comoros","Africa","COM","Subnat","COMr101","Grande Comore (Ngazidja)",0.648,0.548,0.536
+"Comoros","Africa","COM","Subnat","COMr102","Moheli",0.690,0.489,0.509
+"Congo Brazzaville","Africa","COG","Subnat","COGr204"," Bouenza",0.628,0.447,0.431
+"Congo Brazzaville","Africa","COG","Subnat","COGr211"," Brazzaville",0.681,0.614,0.579
+"Congo Brazzaville","Africa","COG","Subnat","COGr207"," Cuvette",0.692,0.518,0.445
+"Congo Brazzaville","Africa","COG","Subnat","COGr208"," Cuvette Ouest",0.586,0.486,0.376
+"Congo Brazzaville","Africa","COG","Subnat","COGr201"," Kouilou",0.612,0.413,0.392
+"Congo Brazzaville","Africa","COG","Subnat","COGr203"," Lekoumou",0.605,0.429,0.389
+"Congo Brazzaville","Africa","COG","Subnat","COGr210"," Likouala",0.612,0.491,0.388
+"Congo Brazzaville","Africa","COG","Subnat","COGr202"," Niari",0.687,0.485,0.448
+"Congo Brazzaville","Africa","COG","Subnat","COGr206"," Plateaux",0.698,0.466,0.398
+"Congo Brazzaville","Africa","COG","Subnat","COGr212"," Pointe Noire",0.748,0.556,0.556
+"Congo Brazzaville","Africa","COG","Subnat","COGr205"," Pool",0.599,0.405,0.371
+"Congo Brazzaville","Africa","COG","Subnat","COGr209"," Sangha",0.540,0.487,0.427
+"Congo Democratic Republic","Africa","COD","Subnat","CODr103","Bandundu",0.637,0.499,0.298
+"Congo Democratic Republic","Africa","COD","Subnat","CODr102","Bas-Congo",0.601,0.490,0.372
+"Congo Democratic Republic","Africa","COD","Subnat","CODr104","Equateur",0.617,0.489,0.309
+"Congo Democratic Republic","Africa","COD","Subnat","CODr111","Kasai Occidental",0.503,0.444,0.289
+"Congo Democratic Republic","Africa","COD","Subnat","CODr110","Kasai Oriental",0.566,0.501,0.315
+"Congo Democratic Republic","Africa","COD","Subnat","CODr109","Katanga",0.588,0.473,0.361
+"Congo Democratic Republic","Africa","COD","Subnat","CODr101","Kinshasa",0.596,0.627,0.517
+"Congo Democratic Republic","Africa","COD","Subnat","CODr108","Maniema",0.583,0.459,0.293
+"Congo Democratic Republic","Africa","COD","Subnat","CODr106","Nord-Kivu",0.683,0.499,0.371
+"Congo Democratic Republic","Africa","COD","Subnat","CODr105","Orientale",0.643,0.459,0.342
+"Congo Democratic Republic","Africa","COD","Subnat","CODr107","Sud-Kivu",0.645,0.499,0.365
+"Costa Rica","America","CRI","Subnat","CRIr102","Alajuela",0.877,0.736,0.802
+"Costa Rica","America","CRI","Subnat","CRIr103","Cartago",0.877,0.737,0.809
+"Costa Rica","America","CRI","Subnat","CRIr105","Guanacaste",0.877,0.719,0.789
+"Costa Rica","America","CRI","Subnat","CRIr104","Heredia",0.877,0.824,0.808
+"Costa Rica","America","CRI","Subnat","CRIr107","Limon",0.877,0.662,0.778
+"Costa Rica","America","CRI","Subnat","CRIr106","Puntarenas",0.877,0.703,0.788
+"Costa Rica","America","CRI","Subnat","CRIr101","San Jose",0.877,0.796,0.807
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr101","Centre",0.611,0.431,0.587
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr102","Centre Est",0.606,0.453,0.593
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr103","Centre Nord",0.595,0.454,0.604
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr104","Centre Ouest",0.589,0.426,0.546
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr105","Nord",0.584,0.396,0.550
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr106","Nord Est",0.590,0.385,0.544
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr107","Nord Ouest",0.585,0.348,0.549
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr108","Ouest",0.585,0.377,0.514
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr110","Sud Ouest",0.593,0.401,0.551
+"Cote d'Ivoire","Africa","CIV","Subnat","CIVr109","Sud, Abidjan",0.611,0.561,0.670
+"Croatia","Europe","HRV","Subnat","HRVr101","City of Zagreb",0.886,0.912,0.951
+"Croatia","Europe","HRV","Subnat","HRVr107","County of Bjelovar-Bilogora",0.886,0.760,0.804
+"Croatia","Europe","HRV","Subnat","HRVr110","County of Brod-Posavina",0.886,0.774,0.770
+"Croatia","Europe","HRV","Subnat","HRVr121","County of Dubrovnik-Neretva",0.886,0.851,0.863
+"Croatia","Europe","HRV","Subnat","HRVr120","County of Istria",0.886,0.842,0.898
+"Croatia","Europe","HRV","Subnat","HRVr113","County of Karlovac",0.886,0.789,0.817
+"Croatia","Europe","HRV","Subnat","HRVr105","County of Koprivnica-Krizevc",0.886,0.764,0.836
+"Croatia","Europe","HRV","Subnat","HRVr103","County of Krapina-Zagorje",0.886,0.773,0.793
+"Croatia","Europe","HRV","Subnat","HRVr116","County of Lika-Senj",0.886,0.764,0.821
+"Croatia","Europe","HRV","Subnat","HRVr106","County of Medimurje",0.886,0.786,0.838
+"Croatia","Europe","HRV","Subnat","HRVr111","County of Osijek-Baranja",0.886,0.800,0.826
+"Croatia","Europe","HRV","Subnat","HRVr109","County of Pozega-Slavonia",0.886,0.760,0.775
+"Croatia","Europe","HRV","Subnat","HRVr115","County of Primorje-Gorski Kotar",0.886,0.872,0.896
+"Croatia","Europe","HRV","Subnat","HRVr118","County of Sibenik-Knin",0.886,0.790,0.826
+"Croatia","Europe","HRV","Subnat","HRVr114","County of Sisak-Moslavina",0.886,0.776,0.813
+"Croatia","Europe","HRV","Subnat","HRVr119","County of Split-Dalmatia",0.886,0.844,0.821
+"Croatia","Europe","HRV","Subnat","HRVr104","County of Varazdin",0.886,0.807,0.833
+"Croatia","Europe","HRV","Subnat","HRVr108","County of Virovitica-Podravina",0.886,0.746,0.770
+"Croatia","Europe","HRV","Subnat","HRVr112","County of Vukovar-Srijem",0.886,0.767,0.777
+"Croatia","Europe","HRV","Subnat","HRVr117","County of Zadar",0.886,0.806,0.829
+"Croatia","Europe","HRV","Subnat","HRVr102","County of Zagreb",0.886,0.812,0.823
+"Cuba","America","CUB","Subnat","CUBr103","C. Habana",0.826,0.908,0.716
+"Cuba","America","CUB","Subnat","CUBr109","Camaguey",0.826,0.788,0.623
+"Cuba","America","CUB","Subnat","CUBr108","Ciego de Avila",0.826,0.820,0.658
+"Cuba","America","CUB","Subnat","CUBr106","Cienfuegos",0.826,0.805,0.669
+"Cuba","America","CUB","Subnat","CUBr112","Granma",0.826,0.787,0.615
+"Cuba","America","CUB","Subnat","CUBr114","Guantanamo",0.826,0.852,0.643
+"Cuba","America","CUB","Subnat","CUBr111","Holguin",0.826,0.797,0.621
+"Cuba","America","CUB","Subnat","CUBr115","Isla",0.826,0.875,0.713
+"Cuba","America","CUB","Subnat","CUBr110","Las Tunas",0.826,0.783,0.616
+"Cuba","America","CUB","Subnat","CUBr104","Matanzas",0.826,0.799,0.688
+"Cuba","America","CUB","Subnat","CUBr101","Pinar del Rio",0.826,0.778,0.672
+"Cuba","America","CUB","Subnat","CUBr102","Prov. Habana",0.826,0.812,0.699
+"Cuba","America","CUB","Subnat","CUBr107","S.Spiritus",0.826,0.781,0.648
+"Cuba","America","CUB","Subnat","CUBr113","Santiago de Cuba",0.826,0.848,0.635
+"Cuba","America","CUB","Subnat","CUBr105","Villa Clara",0.826,0.772,0.657
+"Czech Republic","Europe","CZE","Subnat","CZEr106","Jihovychod",0.896,0.916,0.883
+"Czech Republic","Europe","CZE","Subnat","CZEr103","Jihozapad",0.890,0.862,0.873
+"Czech Republic","Europe","CZE","Subnat","CZEr108","Moravskoslezsko",0.866,0.846,0.864
+"Czech Republic","Europe","CZE","Subnat","CZEr101","Praha",0.913,0.971,1.000
+"Czech Republic","Europe","CZE","Subnat","CZEr105","Severovychod",0.893,0.842,0.867
+"Czech Republic","Europe","CZE","Subnat","CZEr104","Severozapad",0.863,0.795,0.842
+"Czech Republic","Europe","CZE","Subnat","CZEr102","Stredni Cechy",0.889,0.773,0.883
+"Czech Republic","Europe","CZE","Subnat","CZEr107","Stredni Morava",0.887,0.869,0.866
+"Denmark","Europe","DNK","Subnat","DNKr101","Hovedstaden",0.944,0.959,1.000
+"Denmark","Europe","DNK","Subnat","DNKr104","Midtjylland",0.952,0.930,0.956
+"Denmark","Europe","DNK","Subnat","DNKr105","Nordjylland",0.941,0.913,0.941
+"Denmark","Europe","DNK","Subnat","DNKr102","Sjaelland",0.934,0.911,0.911
+"Denmark","Europe","DNK","Subnat","DNKr103","Syddanmark",0.944,0.918,0.951
+"Djibouti","Africa","DJI","Subnat","DJIr101","Djibouti",0.634,0.357,0.609
+"Djibouti","Africa","DJI","Subnat","DJIr102","Other Districts",0.747,0.267,0.505
+"Dominican Republic","America","DOM","Subnat","DOMr101","Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",0.784,0.763,0.803
+"Dominican Republic","America","DOM","Subnat","DOMr102","Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",0.848,0.685,0.768
+"Dominican Republic","America","DOM","Subnat","DOMr103","Region II (Espaillat, Puerto Plata, Santiago)",0.809,0.685,0.796
+"Dominican Republic","America","DOM","Subnat","DOMr104","Region III (Duarte, Maria Trinidad Sanchez, Salcedo, Samana)",0.822,0.697,0.779
+"Dominican Republic","America","DOM","Subnat","DOMr105","Region IV (Independencia, Bahoruco, Barahona, Pedernales)",0.844,0.685,0.748
+"Dominican Republic","America","DOM","Subnat","DOMr106","Region V (El Seibo, La Altagracia, La Romana, San Pedro de Macoris, Hato Mayor)",0.816,0.686,0.760
+"Dominican Republic","America","DOM","Subnat","DOMr107","Region VI (San Juan, Elias Pina)",0.816,0.652,0.747
+"Dominican Republic","America","DOM","Subnat","DOMr108","Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)",0.827,0.650,0.762
+"Dominican Republic","America","DOM","Subnat","DOMr109","Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)",0.826,0.692,0.789
+"Ecuador","America","ECU","Subnat","ECUr101","Coste",0.826,0.702,0.693
+"Ecuador","America","ECU","Subnat","ECUr103","Oriente",0.826,0.652,0.649
+"Ecuador","America","ECU","Subnat","ECUr102","Sierra",0.826,0.713,0.724
+"Egypt","Africa","EGY","Subnat","EGYr102","Alexandria",0.781,0.827,0.734
+"Egypt","Africa","EGY","Subnat","EGYr118","Assuit",0.726,0.607,0.701
+"Egypt","Africa","EGY","Subnat","EGYr121","Aswan",0.762,0.698,0.714
+"Egypt","Africa","EGY","Subnat","EGYr112","Behera",0.800,0.641,0.723
+"Egypt","Africa","EGY","Subnat","EGYr115","Beni Suef",0.742,0.637,0.715
+"Egypt","Africa","EGY","Subnat","EGYr101","Cairo",0.807,0.802,0.731
+"Egypt","Africa","EGY","Subnat","EGYr106","Dakahlia",0.792,0.728,0.726
+"Egypt","Africa","EGY","Subnat","EGYr105","Damietta",0.810,0.729,0.733
+"Egypt","Africa","EGY","Subnat","EGYr116","Fayoum",0.786,0.620,0.710
+"Egypt","Africa","EGY","Subnat","EGYr122","Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)",0.785,0.710,0.720
+"Egypt","Africa","EGY","Subnat","EGYr110","Gharbia",0.775,0.732,0.723
+"Egypt","Africa","EGY","Subnat","EGYr114","Giza",0.786,0.693,0.723
+"Egypt","Africa","EGY","Subnat","EGYr113","Ismailia",0.755,0.749,0.731
+"Egypt","Africa","EGY","Subnat","EGYr109","Kafr El-Sheikh",0.792,0.688,0.730
+"Egypt","Africa","EGY","Subnat","EGYr108","Kalyubia",0.753,0.738,0.713
+"Egypt","Africa","EGY","Subnat","EGYr111","Menoufia",0.807,0.728,0.722
+"Egypt","Africa","EGY","Subnat","EGYr117","Menya",0.744,0.629,0.703
+"Egypt","Africa","EGY","Subnat","EGYr103","Port Said",0.794,0.858,0.744
+"Egypt","Africa","EGY","Subnat","EGYr120","Qena",0.750,0.668,0.711
+"Egypt","Africa","EGY","Subnat","EGYr107","Sharkia",0.760,0.714,0.716
+"Egypt","Africa","EGY","Subnat","EGYr119","Souhag",0.733,0.627,0.700
+"Egypt","Africa","EGY","Subnat","EGYr104","Suez",0.795,0.816,0.742
+"El Salvador","America","SLV","Subnat","SLVr102","Central I",0.788,0.659,0.696
+"El Salvador","America","SLV","Subnat","SLVr103","Central II",0.788,0.527,0.640
+"El Salvador","America","SLV","Subnat","SLVr101","Occidental",0.767,0.541,0.648
+"El Salvador","America","SLV","Subnat","SLVr104","Oriental",0.776,0.514,0.637
+"Equatorial Guinea","Africa","GNQ","Subnat","GNQr101","Annobon, Bioko",0.623,0.704,0.846
+"Equatorial Guinea","Africa","GNQ","Subnat","GNQr102","Centro Sur",0.635,0.324,0.642
+"Equatorial Guinea","Africa","GNQ","Subnat","GNQr103","Kie Ntem",0.616,0.386,0.637
+"Equatorial Guinea","Africa","GNQ","Subnat","GNQr104","Litoral",0.665,0.517,0.740
+"Equatorial Guinea","Africa","GNQ","Subnat","GNQr105","Wele Nzas",0.581,0.314,0.640
+"Eritrea","Africa","ERI","Subnat","ERIr104","Anseba",0.795,0.295,0.391
+"Eritrea","Africa","ERI","Subnat","ERIr106","Debub (Southern)",0.708,0.371,0.395
+"Eritrea","Africa","ERI","Subnat","ERIr101","Debubawi Keyih Bahri (Southern Red Sea)",0.586,0.400,0.503
+"Eritrea","Africa","ERI","Subnat","ERIr105","Gash Barka",0.684,0.205,0.364
+"Eritrea","Africa","ERI","Subnat","ERIr102","Maekel (Central including Asmara)",0.829,0.652,0.568
+"Eritrea","Africa","ERI","Subnat","ERIr103","Semenawi Keyih Bahri (Northern Red Sea)",0.631,0.263,0.389
+"Estonia","Europe","EST","Subnat","ESTr103","Kesk-Eesti",0.866,0.809,0.814
+"Estonia","Europe","EST","Subnat","ESTr104","Kirde-Eesti",0.830,0.907,0.809
+"Estonia","Europe","EST","Subnat","ESTr102","Laane-Eesti",0.881,0.836,0.824
+"Estonia","Europe","EST","Subnat","ESTr105","Louna-Eesti",0.880,0.869,0.845
+"Estonia","Europe","EST","Subnat","ESTr101","Pohja-Eesti",0.893,0.947,0.956
+"Eswatini","Africa","SWZ","Subnat","SWZr101","Hhohho",0.641,0.576,0.673
+"Eswatini","Africa","SWZ","Subnat","SWZr104","Lubombo",0.586,0.534,0.641
+"Eswatini","Africa","SWZ","Subnat","SWZr102","Manzini",0.550,0.582,0.669
+"Eswatini","Africa","SWZ","Subnat","SWZr103","Shiselweni",0.520,0.560,0.610
+"Ethiopia","Africa","ETH","Subnat","ETHr110","Addis",0.797,0.690,0.740
+"Ethiopia","Africa","ETH","Subnat","ETHr102","Affar",0.607,0.289,0.484
+"Ethiopia","Africa","ETH","Subnat","ETHr103","Amhara",0.684,0.348,0.456
+"Ethiopia","Africa","ETH","Subnat","ETHr106","Ben-Gumz",0.658,0.385,0.461
+"Ethiopia","Africa","ETH","Subnat","ETHr111","Dire Dawa",0.668,0.493,0.607
+"Ethiopia","Africa","ETH","Subnat","ETHr108","Gambela",0.678,0.571,0.507
+"Ethiopia","Africa","ETH","Subnat","ETHr109","Harari",0.712,0.507,0.609
+"Ethiopia","Africa","ETH","Subnat","ETHr104","Oromiya",0.698,0.344,0.467
+"Ethiopia","Africa","ETH","Subnat","ETHr107","SNNP",0.677,0.408,0.457
+"Ethiopia","Africa","ETH","Subnat","ETHr105","Somali",0.665,0.287,0.459
+"Ethiopia","Africa","ETH","Subnat","ETHr101","Tigray",0.745,0.386,0.495
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr108","Ba",0.729,0.765,0.716
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr106","Cakaudrove, Bua",0.710,0.702,0.651
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr105","Kadavu, Lau, Lomaiviti, Rotuma",0.688,0.724,0.635
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr107","Macuata",0.684,0.772,0.708
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr109","Nadroga or Navosa",0.699,0.737,0.663
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr101","Naitasiri",0.717,0.812,0.712
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr110","Ra",0.676,0.713,0.644
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr102","Rewa",0.703,0.804,0.697
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr103","Serua, Namosi",0.685,0.756,0.676
+"Fiji","Asia/Pacific","FJI","Subnat","FJIr104","Tailevu",0.709,0.777,0.679
+"Finland","Europe","FIN","Subnat","FINr105","Aland",0.982,0.873,0.944
+"Finland","Europe","FIN","Subnat","FINr103","Etela-Suomi",0.948,0.924,0.920
+"Finland","Europe","FIN","Subnat","FINr102","Helsinki-Uusimaa",0.962,0.942,0.977
+"Finland","Europe","FIN","Subnat","FINr101","Lansi-Suomi",0.958,0.927,0.918
+"Finland","Europe","FIN","Subnat","FINr104","Pohjois-ja Ita-Suomi",0.945,0.921,0.909
+"France","Europe","FRA","Subnat","FRAr110","Alsace",0.964,0.824,0.915
+"France","Europe","FRA","Subnat","FRAr115","Aquitaine",0.966,0.830,0.908
+"France","Europe","FRA","Subnat","FRAr119","Auvergne",0.952,0.805,0.896
+"France","Europe","FRA","Subnat","FRAr106","Basse-Normandie",0.952,0.790,0.885
+"France","Europe","FRA","Subnat","FRAr107","Bourgogne",0.951,0.798,0.895
+"France","Europe","FRA","Subnat","FRAr113","Bretagne",0.952,0.834,0.899
+"France","Europe","FRA","Subnat","FRAr105","Centre",0.955,0.795,0.893
+"France","Europe","FRA","Subnat","FRAr102","Champagne-Ardenne",0.942,0.783,0.897
+"France","Europe","FRA","Subnat","FRAr122","Corse",0.975,0.727,0.894
+"France","Europe","FRA","Subnat","FRAr111","Franche-Comte",0.957,0.794,0.883
+"France","Europe","FRA","Subnat","FRAr127","French Guyana",0.911,0.683,0.805
+"France","Europe","FRA","Subnat","FRAr125","Guadeloupe",0.942,0.780,0.848
+"France","Europe","FRA","Subnat","FRAr104","Haute-Normandie",0.942,0.807,0.897
+"France","Europe","FRA","Subnat","FRAr101","Ile de France",0.984,0.869,1.000
+"France","Europe","FRA","Subnat","FRAr120","Languedoc-Roussillon",0.961,0.821,0.882
+"France","Europe","FRA","Subnat","FRAr117","Limousin",0.949,0.808,0.869
+"France","Europe","FRA","Subnat","FRAr109","Lorraine",0.945,0.809,0.874
+"France","Europe","FRA","Subnat","FRAr126","Martinique",0.946,0.751,0.862
+"France","Europe","FRA","Subnat","FRAr129","Mayotte",0.851,0.756,0.741
+"France","Europe","FRA","Subnat","FRAr116","Midi-Pyrenees",0.972,0.843,0.918
+"France","Europe","FRA","Subnat","FRAr108","Nord",0.929,0.821,0.894
+"France","Europe","FRA","Subnat","FRAr112","Pays de la Loire",0.966,0.817,0.908
+"France","Europe","FRA","Subnat","FRAr103","Picardie",0.935,0.771,0.875
+"France","Europe","FRA","Subnat","FRAr114","Poitou-Charentes",0.957,0.804,0.893
+"France","Europe","FRA","Subnat","FRAr121","Provence-Alpes-Cote dAzur",0.966,0.821,0.915
+"France","Europe","FRA","Subnat","FRAr128","Reunion",0.934,0.753,0.856
+"France","Europe","FRA","Subnat","FRAr118","Rhone-Alpes",0.977,0.841,0.930
+"Gabon","Africa","GAB","Subnat","GABr101","Estuaire",0.673,0.680,0.723
+"Gabon","Africa","GAB","Subnat","GABr102","Haut Ogooue",0.707,0.644,0.710
+"Gabon","Africa","GAB","Subnat","GABr110","Libreville-Port Gentil",0.722,0.725,0.786
+"Gabon","Africa","GAB","Subnat","GABr103","Moyen Ogooue",0.768,0.570,0.656
+"Gabon","Africa","GAB","Subnat","GABr104","Ngounie",0.673,0.555,0.645
+"Gabon","Africa","GAB","Subnat","GABr105","Nyanga",0.713,0.571,0.644
+"Gabon","Africa","GAB","Subnat","GABr106","Ogooue Ivindo",0.616,0.565,0.615
+"Gabon","Africa","GAB","Subnat","GABr107","Ogooue Lolo",0.723,0.545,0.648
+"Gabon","Africa","GAB","Subnat","GABr108","Ogooue Maritime",0.724,0.556,0.694
+"Gabon","Africa","GAB","Subnat","GABr109","Woleu Ntem",0.680,0.605,0.657
+"Gambia","Africa","GMB","Subnat","GMBr101","Banjul",0.649,0.488,0.514
+"Gambia","Africa","GMB","Subnat","GMBr108","Basse",0.658,0.287,0.409
+"Gambia","Africa","GMB","Subnat","GMBr103","Brikama",0.655,0.472,0.480
+"Gambia","Africa","GMB","Subnat","GMBr107","Janjabureh",0.634,0.262,0.357
+"Gambia","Africa","GMB","Subnat","GMBr102","Kanifing",0.652,0.501,0.518
+"Gambia","Africa","GMB","Subnat","GMBr105","Kerewan",0.644,0.339,0.417
+"Gambia","Africa","GMB","Subnat","GMBr106","Kuntaur",0.610,0.186,0.351
+"Gambia","Africa","GMB","Subnat","GMBr104","Mansakonko",0.610,0.359,0.398
+"Georgia","Europe","GEO","Subnat","GEOr102","Ajaria",0.785,0.861,0.774
+"Georgia","Europe","GEO","Subnat","GEOr103","Guria",0.781,0.768,0.730
+"Georgia","Europe","GEO","Subnat","GEOr104","Imereti Racha-Lochkhumi Kvemo Svaneti",0.807,0.849,0.747
+"Georgia","Europe","GEO","Subnat","GEOr105","Kakheti",0.760,0.806,0.708
+"Georgia","Europe","GEO","Subnat","GEOr106","Kvemo Kartli",0.808,0.801,0.743
+"Georgia","Europe","GEO","Subnat","GEOr107","Mtskheta-Mtianeti",0.676,0.835,0.733
+"Georgia","Europe","GEO","Subnat","GEOr108","Samegrelo-Zemo Svateni",0.780,0.805,0.714
+"Georgia","Europe","GEO","Subnat","GEOr109","Samtskhe-Javakheti",0.805,0.791,0.731
+"Georgia","Europe","GEO","Subnat","GEOr110","Shida Kartli",0.813,0.808,0.721
+"Georgia","Europe","GEO","Subnat","GEOr111","Tbilisi",0.770,0.920,0.788
+"Germany","Europe","DEU","Subnat","DEUr101","Baden-Wurttemberg",0.947,0.948,0.972
+"Germany","Europe","DEU","Subnat","DEUr102","Bayern",0.943,0.932,0.976
+"Germany","Europe","DEU","Subnat","DEUr103","Berlin",0.935,0.988,0.955
+"Germany","Europe","DEU","Subnat","DEUr104","Brandenburg",0.930,0.924,0.900
+"Germany","Europe","DEU","Subnat","DEUr105","Bremen",0.923,0.961,0.979
+"Germany","Europe","DEU","Subnat","DEUr106","Hamburg",0.935,0.981,1.000
+"Germany","Europe","DEU","Subnat","DEUr107","Hessen",0.939,0.940,0.971
+"Germany","Europe","DEU","Subnat","DEUr108","Mecklenburg-Vorpommern",0.916,0.934,0.896
+"Germany","Europe","DEU","Subnat","DEUr109","Niedersachsen",0.925,0.923,0.940
+"Germany","Europe","DEU","Subnat","DEUr110","Nordrhein-Westfalen",0.926,0.944,0.946
+"Germany","Europe","DEU","Subnat","DEUr111","Rheinland-Pfalz",0.931,0.930,0.928
+"Germany","Europe","DEU","Subnat","DEUr112","Saarland",0.915,0.946,0.933
+"Germany","Europe","DEU","Subnat","DEUr113","Sachsen",0.931,0.958,0.910
+"Germany","Europe","DEU","Subnat","DEUr114","Sachsen-Anhalt",0.912,0.927,0.896
+"Germany","Europe","DEU","Subnat","DEUr115","Schleswig-Holstein",0.926,0.918,0.921
+"Germany","Europe","DEU","Subnat","DEUr116","Thuringen",0.923,0.945,0.901
+"Ghana","Africa","GHA","Subnat","GHAr106","Ashanti",0.652,0.644,0.628
+"Ghana","Africa","GHA","Subnat","GHAr107","Brong Ahafo",0.713,0.586,0.604
+"Ghana","Africa","GHA","Subnat","GHAr102","Central",0.678,0.620,0.602
+"Ghana","Africa","GHA","Subnat","GHAr105","Eastern",0.683,0.653,0.612
+"Ghana","Africa","GHA","Subnat","GHAr103","Greater Accra",0.729,0.720,0.672
+"Ghana","Africa","GHA","Subnat","GHAr108","Northern",0.623,0.436,0.576
+"Ghana","Africa","GHA","Subnat","GHAr110","Upper East",0.681,0.485,0.550
+"Ghana","Africa","GHA","Subnat","GHAr109","Upper West",0.634,0.487,0.556
+"Ghana","Africa","GHA","Subnat","GHAr104","Volta",0.700,0.587,0.575
+"Ghana","Africa","GHA","Subnat","GHAr101","Western",0.698,0.642,0.607
+"Greece","Europe","GRC","Subnat","GRCr105","Anatoliki Makedonia, Thraki",0.914,0.857,0.795
+"Greece","Europe","GRC","Subnat","GRCr101","Attiki",0.917,0.902,0.907
+"Greece","Europe","GRC","Subnat","GRCr111","Dytiki Ellada",0.922,0.849,0.805
+"Greece","Europe","GRC","Subnat","GRCr107","Dytiki Makedonia",0.937,0.870,0.827
+"Greece","Europe","GRC","Subnat","GRCr110","Ionia Nisia",0.920,0.860,0.849
+"Greece","Europe","GRC","Subnat","GRCr108","Ipeiros",0.960,0.875,0.800
+"Greece","Europe","GRC","Subnat","GRCr106","Kentriki Makedonia",0.925,0.881,0.818
+"Greece","Europe","GRC","Subnat","GRCr104","Kriti",0.931,0.867,0.831
+"Greece","Europe","GRC","Subnat","GRCr103","Notio Aigaio",0.934,0.799,0.869
+"Greece","Europe","GRC","Subnat","GRCr113","Peloponnisos",0.931,0.838,0.829
+"Greece","Europe","GRC","Subnat","GRCr112","Sterea Ellada",0.926,0.828,0.840
+"Greece","Europe","GRC","Subnat","GRCr109","Thessalia",0.934,0.878,0.813
+"Greece","Europe","GRC","Subnat","GRCr102","Voreio Aigaio",0.940,0.873,0.789
+"Guatemala","America","GTM","Subnat","GTMr105","Central",0.750,0.500,0.695
+"Guatemala","America","GTM","Subnat","GTMr101","Metropolitan",0.781,0.639,0.754
+"Guatemala","America","GTM","Subnat","GTMr102","North",0.758,0.398,0.569
+"Guatemala","America","GTM","Subnat","GTMr107","North-Occidental",0.730,0.371,0.628
+"Guatemala","America","GTM","Subnat","GTMr103","North-Oriental",0.745,0.478,0.671
+"Guatemala","America","GTM","Subnat","GTMr108","Peten",0.789,0.461,0.621
+"Guatemala","America","GTM","Subnat","GTMr106","South-Occidental",0.763,0.440,0.669
+"Guatemala","America","GTM","Subnat","GTMr104","South-Oriental",0.760,0.458,0.665
+"Guinea","Africa","GIN","Subnat","GINr101","Boke",0.573,0.315,0.474
+"Guinea","Africa","GIN","Subnat","GINr102","Conakry",0.723,0.591,0.643
+"Guinea","Africa","GIN","Subnat","GINr103","Faranah",0.573,0.262,0.439
+"Guinea","Africa","GIN","Subnat","GINr104","Kankan",0.555,0.225,0.479
+"Guinea","Africa","GIN","Subnat","GINr105","Kindia",0.570,0.353,0.478
+"Guinea","Africa","GIN","Subnat","GINr106","Labe",0.596,0.250,0.428
+"Guinea","Africa","GIN","Subnat","GINr107","Mamou",0.632,0.278,0.457
+"Guinea","Africa","GIN","Subnat","GINr108","N Zerekore",0.626,0.340,0.428
+"Guinea Bissau","Africa","GNB","Subnat","GNBr106","Bafata",0.697,0.329,0.433
+"Guinea Bissau","Africa","GNB","Subnat","GNBr104","Biombo",0.543,0.497,0.412
+"Guinea Bissau","Africa","GNB","Subnat","GNBr109","Bissau",0.609,0.574,0.549
+"Guinea Bissau","Africa","GNB","Subnat","GNBr105","Bolama",0.609,0.470,0.369
+"Guinea Bissau","Africa","GNB","Subnat","GNBr108","Cacheu",0.672,0.467,0.406
+"Guinea Bissau","Africa","GNB","Subnat","GNBr107","Gabu",0.513,0.269,0.423
+"Guinea Bissau","Africa","GNB","Subnat","GNBr103","Oio",0.648,0.312,0.402
+"Guinea Bissau","Africa","GNB","Subnat","GNBr102","Quinara",0.575,0.455,0.399
+"Guinea Bissau","Africa","GNB","Subnat","GNBr101","Tombali",0.631,0.409,0.396
+"Guyana","America","GUY","Subnat","GUYr101","Barima-Waini",0.679,0.557,0.675
+"Guyana","America","GUY","Subnat","GUYr107","Cuyuni-Mazaruni",0.667,0.598,0.724
+"Guyana","America","GUY","Subnat","GUYr104","Demerara-Mahaica",0.709,0.668,0.834
+"Guyana","America","GUY","Subnat","GUYr106","East Berbice-Corentyne",0.735,0.586,0.822
+"Guyana","America","GUY","Subnat","GUYr103","Essequibo Islands-West Demerara",0.674,0.623,0.840
+"Guyana","America","GUY","Subnat","GUYr105","Mahaica-Berbice",0.706,0.619,0.817
+"Guyana","America","GUY","Subnat","GUYr102","Pomeroon-Supenaam",0.683,0.568,0.774
+"Guyana","America","GUY","Subnat","GUYr108","Potaro-Siparuni",0.664,0.563,0.659
+"Guyana","America","GUY","Subnat","GUYr110","Upper Demerara-Berbice",0.673,0.711,0.842
+"Guyana","America","GUY","Subnat","GUYr109","Upper Takutu-Upper Essequibo",0.731,0.593,0.659
+"Haiti","America","HTI","Subnat","HTIr105","Artibonite",0.662,0.407,0.466
+"Haiti","America","HTI","Subnat","HTIr106","Centre",0.651,0.390,0.450
+"Haiti","America","HTI","Subnat","HTIr108","Grande-Anse, Nippes",0.694,0.418,0.443
+"Haiti","America","HTI","Subnat","HTIr103","North",0.725,0.452,0.509
+"Haiti","America","HTI","Subnat","HTIr104","North-East",0.676,0.432,0.492
+"Haiti","America","HTI","Subnat","HTIr109","North-West",0.715,0.442,0.463
+"Haiti","America","HTI","Subnat","HTIr107","South",0.706,0.425,0.469
+"Haiti","America","HTI","Subnat","HTIr102","South-East",0.678,0.419,0.474
+"Haiti","America","HTI","Subnat","HTIr101","West (incl Metropolitain area)",0.632,0.508,0.562
+"Honduras","America","HND","Subnat","HNDr101","Atlantida",0.759,0.524,0.619
+"Honduras","America","HND","Subnat","HNDr106","Choluteca",0.750,0.478,0.553
+"Honduras","America","HND","Subnat","HNDr102","Colon",0.756,0.474,0.601
+"Honduras","America","HND","Subnat","HNDr103","Comayagua",0.779,0.478,0.599
+"Honduras","America","HND","Subnat","HNDr104","Copan",0.769,0.415,0.588
+"Honduras","America","HND","Subnat","HNDr105","Cortes",0.783,0.579,0.641
+"Honduras","America","HND","Subnat","HNDr107","El Paraiso",0.766,0.464,0.566
+"Honduras","America","HND","Subnat","HNDr108","Francisco Morazan",0.771,0.642,0.627
+"Honduras","America","HND","Subnat","HNDr109","Gracias a Dios",0.718,0.519,0.445
+"Honduras","America","HND","Subnat","HNDr110","Intibuca",0.751,0.449,0.551
+"Honduras","America","HND","Subnat","HNDr111","Islas de la Bahia",0.786,0.570,0.617
+"Honduras","America","HND","Subnat","HNDr112","La Paz",0.773,0.487,0.557
+"Honduras","America","HND","Subnat","HNDr113","Lempira",0.765,0.384,0.549
+"Honduras","America","HND","Subnat","HNDr114","Ocotepeque",0.767,0.442,0.603
+"Honduras","America","HND","Subnat","HNDr115","Olancho",0.779,0.439,0.566
+"Honduras","America","HND","Subnat","HNDr116","Santa Barbara",0.779,0.453,0.592
+"Honduras","America","HND","Subnat","HNDr117","Valle",0.750,0.478,0.570
+"Honduras","America","HND","Subnat","HNDr118","Yoro",0.779,0.489,0.595
+"Hungary","Europe","HUN","Subnat","HUNr107","Del-Alfold",0.843,0.828,0.851
+"Hungary","Europe","HUN","Subnat","HUNr104","Del-Dunantul",0.840,0.806,0.842
+"Hungary","Europe","HUN","Subnat","HUNr106","Eszak-Alfold",0.833,0.803,0.832
+"Hungary","Europe","HUN","Subnat","HUNr105","Eszak-Magyarorszag",0.818,0.779,0.837
+"Hungary","Europe","HUN","Subnat","HUNr102","Kozep-Dunantul",0.843,0.786,0.891
+"Hungary","Europe","HUN","Subnat","HUNr101","Kozep-Magyarorszag",0.870,0.926,0.974
+"Hungary","Europe","HUN","Subnat","HUNr103","Nyugat-Dunantul",0.860,0.816,0.899
+"India","Asia/Pacific","IND","Subnat","INDr136","Andaman and Nicobar Islands",0.820,0.607,0.706
+"India","Asia/Pacific","IND","Subnat","INDr101","Andhra Pradesh",0.734,0.517,0.660
+"India","Asia/Pacific","IND","Subnat","INDr125","Arunachal Pradesh",0.767,0.575,0.665
+"India","Asia/Pacific","IND","Subnat","INDr102","Assam",0.714,0.530,0.564
+"India","Asia/Pacific","IND","Subnat","INDr103","Bihar",0.712,0.480,0.544
+"India","Asia/Pacific","IND","Subnat","INDr131","Chandigarth",0.780,0.704,0.751
+"India","Asia/Pacific","IND","Subnat","INDr129","Chhattisgarh",0.689,0.528,0.609
+"India","Asia/Pacific","IND","Subnat","INDr132","Dadra and Nagar Haveli",0.766,0.507,0.613
+"India","Asia/Pacific","IND","Subnat","INDr134","Daman and Diu",0.772,0.554,0.675
+"India","Asia/Pacific","IND","Subnat","INDr104","Goa",0.809,0.696,0.752
+"India","Asia/Pacific","IND","Subnat","INDr105","Gujarat",0.745,0.519,0.669
+"India","Asia/Pacific","IND","Subnat","INDr106","Haryana",0.756,0.613,0.713
+"India","Asia/Pacific","IND","Subnat","INDr107","Himachal Pradesh",0.757,0.649,0.709
+"India","Asia/Pacific","IND","Subnat","INDr108","Jammu and Kashmir",0.762,0.644,0.696
+"India","Asia/Pacific","IND","Subnat","INDr128","Jharkhand",0.715,0.512,0.557
+"India","Asia/Pacific","IND","Subnat","INDr109","Karnataka",0.777,0.567,0.673
+"India","Asia/Pacific","IND","Subnat","INDr110","Kerala",0.834,0.713,0.716
+"India","Asia/Pacific","IND","Subnat","INDr135","Lakshadweep",0.785,0.649,0.718
+"India","Asia/Pacific","IND","Subnat","INDr111","Madhya Pradesh",0.693,0.509,0.600
+"India","Asia/Pacific","IND","Subnat","INDr112","Maharashtra",0.779,0.620,0.676
+"India","Asia/Pacific","IND","Subnat","INDr113","Manipur",0.783,0.656,0.606
+"India","Asia/Pacific","IND","Subnat","INDr114","Meghalaya",0.753,0.572,0.616
+"India","Asia/Pacific","IND","Subnat","INDr115","Mizoram",0.725,0.636,0.705
+"India","Asia/Pacific","IND","Subnat","INDr116","Nagaland",0.767,0.614,0.639
+"India","Asia/Pacific","IND","Subnat","INDr124","New Delhi",0.775,0.684,0.733
+"India","Asia/Pacific","IND","Subnat","INDr117","Orissa",0.717,0.505,0.587
+"India","Asia/Pacific","IND","Subnat","INDr133","Puducherry",0.794,0.664,0.724
+"India","Asia/Pacific","IND","Subnat","INDr118","Punjab",0.765,0.598,0.729
+"India","Asia/Pacific","IND","Subnat","INDr119","Rajasthan",0.725,0.543,0.660
+"India","Asia/Pacific","IND","Subnat","INDr120","Sikkim",0.785,0.644,0.683
+"India","Asia/Pacific","IND","Subnat","INDr121","Tamil Nadu",0.791,0.608,0.671
+"India","Asia/Pacific","IND","Subnat","INDr130","Telangana",0.748,0.542,0.667
+"India","Asia/Pacific","IND","Subnat","INDr126","Tripura",0.773,0.549,0.586
+"India","Asia/Pacific","IND","Subnat","INDr123","Uttar Pradesh",0.667,0.524,0.591
+"India","Asia/Pacific","IND","Subnat","INDr127","Uttaranchal",0.733,0.609,0.678
+"India","Asia/Pacific","IND","Subnat","INDr122","West Bengal",0.761,0.534,0.598
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr116","Bali",0.739,0.694,0.759
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr109","Bangka Belitung",0.688,0.645,0.743
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr115","Banten",0.715,0.662,0.740
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr107","Bengkulu",0.752,0.685,0.711
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr112","Central Java",0.756,0.644,0.716
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr121","Central Kalimantan",0.724,0.646,0.678
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr125","Central Sulawesi",0.704,0.677,0.675
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr101","DI Aceh",0.729,0.709,0.691
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr113","DI Yogyakarta",0.768,0.769,0.730
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr110","DKI Jakarta",0.753,0.752,0.772
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr114","East Java",0.734,0.653,0.724
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr123","East Kalimantan",0.745,0.696,0.737
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr118","East Nusa Tenggara",0.706,0.636,0.608
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr128","Gorontalo",0.669,0.642,0.679
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr130","Irian Jaya (Papua and Papua Barat)",0.635,0.671,0.638
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr105","Jambi",0.722,0.657,0.718
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr108","Lampung",0.732,0.645,0.709
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr129","Maluku",0.677,0.728,0.667
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr124","North Sulawesi",0.704,0.729,0.714
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr102","North Sumatra",0.728,0.702,0.703
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr104","Riau (incl. Riau islands)",0.737,0.691,0.721
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr122","South Kalimantan",0.713,0.657,0.699
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr126","South Sulawesi (incl Sulawesi Barat)",0.730,0.667,0.701
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr106","South Sumatra",0.732,0.654,0.707
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr127","Southeast Sulawesi",0.700,0.698,0.691
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr111","West Java",0.739,0.656,0.729
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr120","West Kalimantan",0.754,0.609,0.680
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr117","West Nusa Tenggara",0.734,0.653,0.685
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr103","West Sumatra",0.750,0.727,0.708
+"Iran","Asia/Pacific","IRN","Subnat","IRNr125","Ardebil",0.778,0.717,0.719
+"Iran","Asia/Pacific","IRN","Subnat","IRNr119","Bushehr",0.828,0.780,0.755
+"Iran","Asia/Pacific","IRN","Subnat","IRNr115","Chaharmahal and Bakhtiyari",0.842,0.735,0.739
+"Iran","Asia/Pacific","IRN","Subnat","IRNr104","EastAzarbayejan",0.826,0.724,0.737
+"Iran","Asia/Pacific","IRN","Subnat","IRNr111","Esfahan",0.834,0.809,0.774
+"Iran","Asia/Pacific","IRN","Subnat","IRNr108","Fars",0.828,0.781,0.743
+"Iran","Asia/Pacific","IRN","Subnat","IRNr102","Gilan",0.847,0.778,0.716
+"Iran","Asia/Pacific","IRN","Subnat","IRNr128","Golestan",0.841,0.705,0.718
+"Iran","Asia/Pacific","IRN","Subnat","IRNr114","Hamedan",0.830,0.690,0.735
+"Iran","Asia/Pacific","IRN","Subnat","IRNr123","Hormozgan",0.831,0.700,0.711
+"Iran","Asia/Pacific","IRN","Subnat","IRNr117","Ilam",0.848,0.789,0.737
+"Iran","Asia/Pacific","IRN","Subnat","IRNr109","Kerman",0.831,0.731,0.708
+"Iran","Asia/Pacific","IRN","Subnat","IRNr106","Kermanshah",0.837,0.728,0.754
+"Iran","Asia/Pacific","IRN","Subnat","IRNr110","Khorasan-e-Razavi",0.821,0.719,0.734
+"Iran","Asia/Pacific","IRN","Subnat","IRNr107","Khuzestan",0.833,0.737,0.765
+"Iran","Asia/Pacific","IRN","Subnat","IRNr118","Kohgiluyeh and Boyerahmad",0.824,0.763,0.718
+"Iran","Asia/Pacific","IRN","Subnat","IRNr113","Kordestan",0.784,0.642,0.749
+"Iran","Asia/Pacific","IRN","Subnat","IRNr116","Lorestan",0.826,0.720,0.729
+"Iran","Asia/Pacific","IRN","Subnat","IRNr101","Markazi",0.827,0.746,0.733
+"Iran","Asia/Pacific","IRN","Subnat","IRNr103","Mazandaran",0.849,0.813,0.736
+"Iran","Asia/Pacific","IRN","Subnat","IRNr129","North Khorasan",0.815,0.663,0.699
+"Iran","Asia/Pacific","IRN","Subnat","IRNr127","Qazvin",0.833,0.740,0.742
+"Iran","Asia/Pacific","IRN","Subnat","IRNr126","Qom",0.843,0.786,0.745
+"Iran","Asia/Pacific","IRN","Subnat","IRNr121","Semnan",0.831,0.825,0.741
+"Iran","Asia/Pacific","IRN","Subnat","IRNr112","Sistanand Baluchestan",0.820,0.545,0.659
+"Iran","Asia/Pacific","IRN","Subnat","IRNr130","South Khorasan",0.811,0.688,0.706
+"Iran","Asia/Pacific","IRN","Subnat","IRNr124","Tehran and Alborz",0.833,0.870,0.732
+"Iran","Asia/Pacific","IRN","Subnat","IRNr105","WestAzarbayejan",0.816,0.663,0.736
+"Iran","Asia/Pacific","IRN","Subnat","IRNr122","Yazd",0.847,0.793,0.758
+"Iran","Asia/Pacific","IRN","Subnat","IRNr120","Zanjan",0.826,0.714,0.709
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr107","Anbar",0.782,0.593,0.679
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr109","Babylon",0.796,0.596,0.669
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr108","Baghdad",0.787,0.626,0.708
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr118","Basra",0.743,0.584,0.674
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr106","Diala",0.764,0.627,0.701
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr101","Dohouk",0.793,0.602,0.721
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr105","Erbil",0.785,0.611,0.720
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr110","Kerbela",0.741,0.590,0.676
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr117","Maysan",0.768,0.501,0.664
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr115","Muthanna",0.785,0.491,0.694
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr113","Najaf",0.776,0.559,0.648
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr102","Nenava",0.776,0.618,0.700
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr114","Qadisiya",0.769,0.587,0.692
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr112","Salaheldeen",0.768,0.610,0.709
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr103","Suleimaniya",0.785,0.627,0.709
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr104","Ta-amem-Karkuk",0.754,0.653,0.711
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr116","Thi-Qar",0.787,0.583,0.697
+"Iraq","Asia/Pacific","IRQ","Subnat","IRQr111","Wasit",0.750,0.574,0.656
+"Ireland","Europe","IRL","Subnat","IRLr101","Border",0.957,0.870,0.888
+"Ireland","Europe","IRL","Subnat","IRLr104","Dublin",0.953,0.899,1.000
+"Ireland","Europe","IRL","Subnat","IRLr105","Mid-East",0.961,0.887,0.950
+"Ireland","Europe","IRL","Subnat","IRLr106","Mid-West",0.941,0.881,0.959
+"Ireland","Europe","IRL","Subnat","IRLr102","Midland",0.955,0.875,0.888
+"Ireland","Europe","IRL","Subnat","IRLr107","South-East",0.951,0.873,0.940
+"Ireland","Europe","IRL","Subnat","IRLr108","South-West",0.950,0.889,1.000
+"Ireland","Europe","IRL","Subnat","IRLr103","West",0.961,0.887,0.949
+"Italy","Europe","ITA","Subnat","ITAr105","Abruzzo",0.968,0.823,0.891
+"Italy","Europe","ITA","Subnat","ITAr109","Basilicata",0.958,0.769,0.878
+"Italy","Europe","ITA","Subnat","ITAr110","Calabria",0.955,0.767,0.832
+"Italy","Europe","ITA","Subnat","ITAr107","Campania",0.944,0.786,0.845
+"Italy","Europe","ITA","Subnat","ITAr117","Emilia-Romagna",0.973,0.853,0.949
+"Italy","Europe","ITA","Subnat","ITAr116","Friuli-Venezia Giulia",0.972,0.824,0.927
+"Italy","Europe","ITA","Subnat","ITAr121","Lazio",0.970,0.847,0.938
+"Italy","Europe","ITA","Subnat","ITAr103","Liguria",0.965,0.815,0.928
+"Italy","Europe","ITA","Subnat","ITAr104","Lombardia",0.976,0.817,0.960
+"Italy","Europe","ITA","Subnat","ITAr120","Marche",0.979,0.831,0.905
+"Italy","Europe","ITA","Subnat","ITAr106","Molise",0.967,0.800,0.864
+"Italy","Europe","ITA","Subnat","ITAr101","Piemonte",0.962,0.821,0.926
+"Italy","Europe","ITA","Subnat","ITAr113","Provincia Autonoma di Bolzano",0.981,0.782,0.991
+"Italy","Europe","ITA","Subnat","ITAr114","Provincia Autonoma di Trento",0.987,0.831,0.957
+"Italy","Europe","ITA","Subnat","ITAr108","Puglia",0.968,0.765,0.848
+"Italy","Europe","ITA","Subnat","ITAr112","Sardegna",0.967,0.789,0.866
+"Italy","Europe","ITA","Subnat","ITAr111","Sicilia",0.947,0.768,0.836
+"Italy","Europe","ITA","Subnat","ITAr118","Toscana",0.975,0.833,0.927
+"Italy","Europe","ITA","Subnat","ITAr119","Umbria",0.981,0.828,0.897
+"Italy","Europe","ITA","Subnat","ITAr102","Valle dAosta",0.967,0.760,0.957
+"Italy","Europe","ITA","Subnat","ITAr115","Veneto",0.978,0.804,0.935
+"Jamaica","America","JAM","Subnat","JAMr101","Kingston, St Andrew",0.760,0.728,0.718
+"Jamaica","America","JAM","Subnat","JAMr106","Manchester, Clarendon",0.787,0.670,0.665
+"Jamaica","America","JAM","Subnat","JAMr103","St Ann, St Catherine",0.813,0.671,0.681
+"Jamaica","America","JAM","Subnat","JAMr105","St James, Hanover, Westmoreland",0.752,0.659,0.667
+"Jamaica","America","JAM","Subnat","JAMr102","St Thomas, Portland, St Mary",0.777,0.641,0.649
+"Jamaica","America","JAM","Subnat","JAMr104","Trelawny, St Elizabeth",0.778,0.625,0.622
+"Japan","Asia/Pacific","JPN","Subnat","JPNr108","Chugoku (Tottori, Shimane, Okayama, Hiroshima, Yamaguchi)",1.000,0.864,0.904
+"Japan","Asia/Pacific","JPN","Subnat","JPNr101","Hokkaido",0.994,0.826,0.887
+"Japan","Asia/Pacific","JPN","Subnat","JPNr105","Hokuriku (Niigata, Toyama, Ishikawa, Fukui)",1.000,0.823,0.909
+"Japan","Asia/Pacific","JPN","Subnat","JPNr107","Kansai region (Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama)",0.995,0.885,0.906
+"Japan","Asia/Pacific","JPN","Subnat","JPNr110","Kyushu (Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima, Okinawa)",0.998,0.840,0.884
+"Japan","Asia/Pacific","JPN","Subnat","JPNr103","Northern-Kanto, Koshin (Ibaraki, Tochigi, Gunma)",0.997,0.838,0.910
+"Japan","Asia/Pacific","JPN","Subnat","JPNr109","Shikoku (Tokushima, Kagawa, Ehime, Kochi)",0.997,0.833,0.893
+"Japan","Asia/Pacific","JPN","Subnat","JPNr104","Southern-Kanto (Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Nagano)",1.000,0.921,0.934
+"Japan","Asia/Pacific","JPN","Subnat","JPNr102","Tohoku (Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima)",0.989,0.806,0.895
+"Japan","Asia/Pacific","JPN","Subnat","JPNr106","Toukai (Gifu, Shizuoka, Aichi, Mie)",0.998,0.852,0.928
+"Jordan","Asia/Pacific","JOR","Subnat","JORr108","Aljoun",0.823,0.645,0.685
+"Jordan","Asia/Pacific","JOR","Subnat","JORr101","Amman",0.838,0.678,0.705
+"Jordan","Asia/Pacific","JOR","Subnat","JORr112","Aqaba",0.852,0.630,0.698
+"Jordan","Asia/Pacific","JOR","Subnat","JORr102","Balqa",0.850,0.629,0.688
+"Jordan","Asia/Pacific","JOR","Subnat","JORr105","Irbid",0.831,0.640,0.686
+"Jordan","Asia/Pacific","JOR","Subnat","JORr107","Jarash",0.845,0.630,0.686
+"Jordan","Asia/Pacific","JOR","Subnat","JORr109","Karak",0.843,0.657,0.699
+"Jordan","Asia/Pacific","JOR","Subnat","JORr111","Maan",0.832,0.571,0.693
+"Jordan","Asia/Pacific","JOR","Subnat","JORr104","Madaba",0.824,0.612,0.692
+"Jordan","Asia/Pacific","JOR","Subnat","JORr106","Mafraq",0.819,0.541,0.666
+"Jordan","Asia/Pacific","JOR","Subnat","JORr110","Tafiela",0.833,0.626,0.697
+"Jordan","Asia/Pacific","JOR","Subnat","JORr103","Zarqa",0.831,0.612,0.690
+"Kazakhstan","Asia/Pacific","KAZ","Subnat","KAZr101","Almaty city",0.735,0.940,0.861
+"Kazakhstan","Asia/Pacific","KAZ","Subnat","KAZr104","Central region (Karagandinskaya)",0.800,0.862,0.839
+"Kazakhstan","Asia/Pacific","KAZ","Subnat","KAZr106","East region (East-Kazakhstanskaya)",0.717,0.857,0.821
+"Kazakhstan","Asia/Pacific","KAZ","Subnat","KAZr105","North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)",0.792,0.861,0.827
+"Kazakhstan","Asia/Pacific","KAZ","Subnat","KAZr102","South region (Almatinskaya, Zhambylskaya, Kyzylordinskaya, South-Kazakhstanskaya)",0.742,0.824,0.820
+"Kazakhstan","Asia/Pacific","KAZ","Subnat","KAZr103","West region (Aktyubinskaya, Atyrauskaya, Mangistauskaya, West-Kazakhstanskaya)",0.761,0.833,0.820
+"Kenya","Africa","KEN","Subnat","KENr102","Central",0.669,0.556,0.618
+"Kenya","Africa","KEN","Subnat","KENr103","Coast",0.635,0.475,0.592
+"Kenya","Africa","KEN","Subnat","KENr104","Eastern",0.663,0.503,0.550
+"Kenya","Africa","KEN","Subnat","KENr101","Nairobi",0.604,0.603,0.706
+"Kenya","Africa","KEN","Subnat","KENr108","North Eastern",0.665,0.259,0.480
+"Kenya","Africa","KEN","Subnat","KENr105","Nyanza",0.584,0.535,0.530
+"Kenya","Africa","KEN","Subnat","KENr106","Rift Valley",0.663,0.507,0.550
+"Kenya","Africa","KEN","Subnat","KENr107","Western",0.621,0.522,0.504
+"Kiribati","Asia/Pacific","KIR","Subnat","KIRr103","Central Gibert",0.679,0.571,0.487
+"Kiribati","Asia/Pacific","KIR","Subnat","KIRr105","Line and Phoenix Group",0.745,0.552,0.533
+"Kiribati","Asia/Pacific","KIR","Subnat","KIRr102","Northern Gilbert",0.765,0.553,0.497
+"Kiribati","Asia/Pacific","KIR","Subnat","KIRr104","Southern Gilbert",0.739,0.575,0.489
+"Kiribati","Asia/Pacific","KIR","Subnat","KIRr101","Souyth Tarawa",0.718,0.618,0.627
+"Kosovo","Europe","XKO","Subnat","KSVr107","Ferizaj",0.821,0.781,0.700
+"Kosovo","Europe","XKO","Subnat","KSVr101","Gjakova",0.804,0.733,0.708
+"Kosovo","Europe","XKO","Subnat","KSVr102","Gjilan",0.761,0.788,0.686
+"Kosovo","Europe","XKO","Subnat","KSVr103","Mitrovica",0.810,0.791,0.703
+"Kosovo","Europe","XKO","Subnat","KSVr104","Peja",0.801,0.755,0.708
+"Kosovo","Europe","XKO","Subnat","KSVr106","Pristina",0.815,0.797,0.705
+"Kosovo","Europe","XKO","Subnat","KSVr105","Prizren",0.832,0.721,0.706
+"Kuwait","Asia/Pacific","KWT","Subnat","KWTr102","Ahmadi",0.903,0.693,0.945
+"Kuwait","Asia/Pacific","KWT","Subnat","KWTr101","Al Asimah, Hawalli, Al-Farwaniyah, Mubarak al-Sabah",0.903,0.665,0.949
+"Kuwait","Asia/Pacific","KWT","Subnat","KWTr103","Al-Jahra",0.903,0.648,0.943
+"Kyrgyzstan","Asia/Pacific","KGZ","Subnat","KGZr108","Batken",0.782,0.678,0.572
+"Kyrgyzstan","Asia/Pacific","KGZ","Subnat","KGZr101","Bishkek",0.760,0.834,0.610
+"Kyrgyzstan","Asia/Pacific","KGZ","Subnat","KGZr103","Chuy",0.794,0.731,0.587
+"Kyrgyzstan","Asia/Pacific","KGZ","Subnat","KGZr102","Issyk-Kul",0.762,0.743,0.583
+"Kyrgyzstan","Asia/Pacific","KGZ","Subnat","KGZr105","Jalal-Abad",0.761,0.706,0.554
+"Kyrgyzstan","Asia/Pacific","KGZ","Subnat","KGZr107","Naryn",0.740,0.751,0.550
+"Kyrgyzstan","Asia/Pacific","KGZ","Subnat","KGZr106","Osh",0.769,0.709,0.552
+"Kyrgyzstan","Asia/Pacific","KGZ","Subnat","KGZr104","Talas",0.755,0.700,0.566
+"Lao","Asia/Pacific","LAO","Subnat","LAOr117","Attapeu",0.706,0.450,0.627
+"Lao","Asia/Pacific","LAO","Subnat","LAOr105","Bokeo",0.706,0.420,0.658
+"Lao","Asia/Pacific","LAO","Subnat","LAOr111","Borikhamxay",0.764,0.488,0.712
+"Lao","Asia/Pacific","LAO","Subnat","LAOr116","Champasack",0.749,0.428,0.670
+"Lao","Asia/Pacific","LAO","Subnat","LAOr107","Huaphanh",0.757,0.434,0.595
+"Lao","Asia/Pacific","LAO","Subnat","LAOr112","Khammuane",0.692,0.454,0.652
+"Lao","Asia/Pacific","LAO","Subnat","LAOr103","Luangnamtha",0.750,0.401,0.638
+"Lao","Asia/Pacific","LAO","Subnat","LAOr106","Luangprabang",0.780,0.438,0.612
+"Lao","Asia/Pacific","LAO","Subnat","LAOr104","Oudomxay",0.681,0.446,0.607
+"Lao","Asia/Pacific","LAO","Subnat","LAOr102","Phongsaly",0.681,0.410,0.579
+"Lao","Asia/Pacific","LAO","Subnat","LAOr114","Saravane",0.683,0.365,0.576
+"Lao","Asia/Pacific","LAO","Subnat","LAOr113","Savannakhet",0.712,0.401,0.634
+"Lao","Asia/Pacific","LAO","Subnat","LAOr108","Sayabury",0.860,0.490,0.685
+"Lao","Asia/Pacific","LAO","Subnat","LAOr115","Sekong",0.776,0.418,0.601
+"Lao","Asia/Pacific","LAO","Subnat","LAOr101","Vientiane Municipality",0.828,0.616,0.751
+"Lao","Asia/Pacific","LAO","Subnat","LAOr110","Vientiane Province",0.727,0.481,0.681
+"Lao","Asia/Pacific","LAO","Subnat","LAOr109","Xiengkhuang",0.756,0.507,0.664
+"Latvia","Europe","LVA","Subnat","LVAr104","Kurzeme region",0.811,0.926,0.827
+"Latvia","Europe","LVA","Subnat","LVAr106","Latgale region",0.786,0.924,0.783
+"Latvia","Europe","LVA","Subnat","LVAr102","Pieriga region",0.844,0.977,0.840
+"Latvia","Europe","LVA","Subnat","LVAr101","Riga region",0.839,1.000,0.955
+"Latvia","Europe","LVA","Subnat","LVAr103","Vidzeme region",0.821,0.929,0.809
+"Latvia","Europe","LVA","Subnat","LVAr105","Zemgale region",0.814,0.926,0.793
+"Lebanon","Asia/Pacific","LBN","Subnat","LBNr101","Beirut",0.847,0.535,0.684
+"Lebanon","Asia/Pacific","LBN","Subnat","LBNr104","Beqaa",0.847,0.635,0.730
+"Lebanon","Asia/Pacific","LBN","Subnat","LBNr102","Mount Lebanon",0.847,0.584,0.710
+"Lebanon","Asia/Pacific","LBN","Subnat","LBNr103","Northern",0.847,0.648,0.610
+"Lebanon","Asia/Pacific","LBN","Subnat","LBNr105","Southern, Nabtieh",0.847,0.627,0.710
+"Lesotho","Africa","LSO","Subnat","LSOr103","Berea",0.553,0.554,0.514
+"Lesotho","Africa","LSO","Subnat","LSOr101","Butha-Buthe",0.589,0.516,0.462
+"Lesotho","Africa","LSO","Subnat","LSOr102","Leribe",0.485,0.555,0.503
+"Lesotho","Africa","LSO","Subnat","LSOr105","Mafeteng",0.485,0.513,0.488
+"Lesotho","Africa","LSO","Subnat","LSOr104","Maseru",0.512,0.588,0.543
+"Lesotho","Africa","LSO","Subnat","LSOr106","Mohale s Hoek",0.556,0.502,0.461
+"Lesotho","Africa","LSO","Subnat","LSOr109","Mokhotlong",0.482,0.445,0.422
+"Lesotho","Africa","LSO","Subnat","LSOr108","Qasha s Nek",0.477,0.500,0.464
+"Lesotho","Africa","LSO","Subnat","LSOr107","Quthing",0.449,0.486,0.456
+"Lesotho","Africa","LSO","Subnat","LSOr110","Thaba-Tseka",0.488,0.426,0.408
+"Liberia","Africa","LBR","Subnat","LBRr101","Bomi",0.582,0.422,0.355
+"Liberia","Africa","LBR","Subnat","LBRr102","Bong",0.617,0.386,0.342
+"Liberia","Africa","LBR","Subnat","LBRr103","Gbarpolu",0.605,0.314,0.318
+"Liberia","Africa","LBR","Subnat","LBRr104","Grand Bassa",0.605,0.354,0.345
+"Liberia","Africa","LBR","Subnat","LBRr105","Grand Cape Mount",0.575,0.339,0.343
+"Liberia","Africa","LBR","Subnat","LBRr106","Grand Gedeh",0.614,0.443,0.364
+"Liberia","Africa","LBR","Subnat","LBRr107","Grand Kru",0.566,0.424,0.324
+"Liberia","Africa","LBR","Subnat","LBRr108","Lofa",0.651,0.342,0.344
+"Liberia","Africa","LBR","Subnat","LBRr109","Margibi",0.645,0.438,0.376
+"Liberia","Africa","LBR","Subnat","LBRr110","Maryland",0.600,0.456,0.368
+"Liberia","Africa","LBR","Subnat","LBRr111","Montserrado",0.629,0.571,0.451
+"Liberia","Africa","LBR","Subnat","LBRr112","Nimba",0.700,0.429,0.355
+"Liberia","Africa","LBR","Subnat","LBRr113","River Cess",0.647,0.379,0.324
+"Liberia","Africa","LBR","Subnat","LBRr114","River Gee",0.574,0.458,0.359
+"Liberia","Africa","LBR","Subnat","LBRr115","Sinoe",0.621,0.428,0.348
+"Libya","Africa","LBY","Subnat","LBYr101","Cyrenaica",0.799,0.599,0.743
+"Libya","Africa","LBY","Subnat","LBYr103","Fezzan",0.799,0.625,0.736
+"Libya","Africa","LBY","Subnat","LBYr102","Tripolitania",0.799,0.614,0.773
+"Lithuania","Europe","LTU","Subnat","LTUr101","Alytus County",0.823,0.878,0.825
+"Lithuania","Europe","LTU","Subnat","LTUr102","Kaunas County",0.839,0.913,0.897
+"Lithuania","Europe","LTU","Subnat","LTUr103","Klaipeda County",0.838,0.896,0.895
+"Lithuania","Europe","LTU","Subnat","LTUr104","Marijampole County",0.827,0.849,0.816
+"Lithuania","Europe","LTU","Subnat","LTUr105","Panevezys County",0.826,0.868,0.849
+"Lithuania","Europe","LTU","Subnat","LTUr106","Siauliai County",0.821,0.869,0.850
+"Lithuania","Europe","LTU","Subnat","LTUr107","Taurage County",0.804,0.844,0.803
+"Lithuania","Europe","LTU","Subnat","LTUr108","Telsiai County",0.838,0.863,0.841
+"Lithuania","Europe","LTU","Subnat","LTUr109","Utena County",0.801,0.870,0.823
+"Lithuania","Europe","LTU","Subnat","LTUr110","Vilnius County",0.835,0.950,0.958
+"Madagascar","Africa","MDG","Subnat","MDGr112","Alaotra Mangoro",0.721,0.475,0.406
+"Madagascar","Africa","MDG","Subnat","MDGr101","Analamanga",0.747,0.633,0.485
+"Madagascar","Africa","MDG","Subnat","MDGr111","Analanjirofo",0.703,0.485,0.427
+"Madagascar","Africa","MDG","Subnat","MDGr106","Anamoroni Mania",0.750,0.475,0.372
+"Madagascar","Africa","MDG","Subnat","MDGr118","Androy",0.636,0.310,0.351
+"Madagascar","Africa","MDG","Subnat","MDGr119","Anosy",0.654,0.294,0.363
+"Madagascar","Africa","MDG","Subnat","MDGr117","Atsimo Andrefana",0.665,0.267,0.363
+"Madagascar","Africa","MDG","Subnat","MDGr109","Atsimo Atsinanana",0.590,0.309,0.352
+"Madagascar","Africa","MDG","Subnat","MDGr110","Atsinanana",0.669,0.501,0.424
+"Madagascar","Africa","MDG","Subnat","MDGr115","Betsiboka",0.594,0.375,0.393
+"Madagascar","Africa","MDG","Subnat","MDGr113","Boeny",0.738,0.433,0.407
+"Madagascar","Africa","MDG","Subnat","MDGr104","Bongolava",0.656,0.402,0.398
+"Madagascar","Africa","MDG","Subnat","MDGr121","Diana",0.749,0.580,0.443
+"Madagascar","Africa","MDG","Subnat","MDGr105","Haute Matsiatra",0.692,0.470,0.375
+"Madagascar","Africa","MDG","Subnat","MDGr108","Ihorombe",0.651,0.320,0.375
+"Madagascar","Africa","MDG","Subnat","MDGr103","Itasy",0.717,0.447,0.391
+"Madagascar","Africa","MDG","Subnat","MDGr116","Melaky",0.739,0.329,0.369
+"Madagascar","Africa","MDG","Subnat","MDGr120","Menabe",0.623,0.350,0.368
+"Madagascar","Africa","MDG","Subnat","MDGr122","Sava",0.774,0.513,0.431
+"Madagascar","Africa","MDG","Subnat","MDGr114","Sofia",0.695,0.485,0.416
+"Madagascar","Africa","MDG","Subnat","MDGr102","Vakinankaratra",0.701,0.473,0.402
+"Madagascar","Africa","MDG","Subnat","MDGr107","Vatovavy Fitovinany",0.657,0.391,0.366
+"Malawi","Africa","MWI","Subnat","MWIr101","Blantyre",0.658,0.594,0.485
+"Malawi","Africa","MWI","Subnat","MWIr102","Kasungu",0.718,0.529,0.409
+"Malawi","Africa","MWI","Subnat","MWIr109","Lilongwe",0.674,0.503,0.416
+"Malawi","Africa","MWI","Subnat","MWIr103","Machinga",0.661,0.467,0.381
+"Malawi","Africa","MWI","Subnat","MWIr104","Mangochi",0.630,0.426,0.374
+"Malawi","Africa","MWI","Subnat","MWIr110","Mulanje",0.662,0.502,0.398
+"Malawi","Africa","MWI","Subnat","MWIr105","Mzimba",0.671,0.553,0.439
+"Malawi","Africa","MWI","Subnat","MWIr112","Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)",0.657,0.465,0.385
+"Malawi","Africa","MWI","Subnat","MWIr111","Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",0.714,0.563,0.422
+"Malawi","Africa","MWI","Subnat","MWIr113","Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)",0.645,0.496,0.391
+"Malawi","Africa","MWI","Subnat","MWIr106","Salima",0.642,0.454,0.393
+"Malawi","Africa","MWI","Subnat","MWIr107","Thyolo",0.608,0.483,0.385
+"Malawi","Africa","MWI","Subnat","MWIr108","Zomba",0.659,0.522,0.408
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr101","Johor",0.844,0.734,0.877
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr102","Kedah",0.844,0.714,0.847
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr103","Kelantan",0.844,0.693,0.780
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr114","Kuala Lumpur Federal Territory",0.844,0.842,0.888
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr115","Labuan Federal Territory",0.844,0.674,0.824
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr104","Melaka",0.844,0.755,0.884
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr105","Negeri Sembilan",0.844,0.738,0.885
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr106","Pahang",0.844,0.705,0.847
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr108","Perak",0.844,0.716,0.870
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr109","Perlis",0.844,0.708,0.846
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr107","Pulau Pinang",0.844,0.778,0.889
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr112","Sabah",0.844,0.573,0.715
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr113","Sarawak",0.844,0.622,0.761
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr110","Selangor",0.844,0.826,0.893
+"Malaysia","Asia/Pacific","MYS","Subnat","MYSr111","Terengganu",0.844,0.709,0.826
+"Maldives","Asia/Pacific","MDV","Subnat","MDVr104","Central",0.926,0.507,0.743
+"Maldives","Asia/Pacific","MDV","Subnat","MDVr101","Male",0.916,0.673,0.785
+"Maldives","Asia/Pacific","MDV","Subnat","MDVr102","North",0.918,0.533,0.744
+"Maldives","Asia/Pacific","MDV","Subnat","MDVr103","North Central",0.941,0.514,0.744
+"Maldives","Asia/Pacific","MDV","Subnat","MDVr106","South",0.916,0.538,0.752
+"Maldives","Asia/Pacific","MDV","Subnat","MDVr105","South Central",0.926,0.538,0.747
+"Mali","Africa","MLI","Subnat","MLIr108","Bamako",0.715,0.530,0.588
+"Mali","Africa","MLI","Subnat","MLIr107","Gao and Kidal",0.667,0.224,0.393
+"Mali","Africa","MLI","Subnat","MLIr101","Kayes",0.570,0.241,0.442
+"Mali","Africa","MLI","Subnat","MLIr102","Koulikoro",0.608,0.290,0.456
+"Mali","Africa","MLI","Subnat","MLIr105","Mopti",0.572,0.183,0.416
+"Mali","Africa","MLI","Subnat","MLIr104","Segou",0.565,0.217,0.447
+"Mali","Africa","MLI","Subnat","MLIr103","Sikasso",0.603,0.243,0.459
+"Mali","Africa","MLI","Subnat","MLIr106","Tombouctou",0.569,0.160,0.400
+"Mauritania","Africa","MRT","Subnat","MRTr107","Adrar",0.596,0.537,0.600
+"Mauritania","Africa","MRT","Subnat","MRTr103","Assaba",0.660,0.333,0.532
+"Mauritania","Africa","MRT","Subnat","MRTr105","Brakna",0.681,0.383,0.575
+"Mauritania","Africa","MRT","Subnat","MRTr104","Gorgol",0.664,0.313,0.511
+"Mauritania","Africa","MRT","Subnat","MRTr110","Guidimagha",0.679,0.271,0.502
+"Mauritania","Africa","MRT","Subnat","MRTr101","Hodh Charghi",0.672,0.231,0.466
+"Mauritania","Africa","MRT","Subnat","MRTr102","Hodh Gharbi",0.670,0.282,0.531
+"Mauritania","Africa","MRT","Subnat","MRTr112","Inchiri",0.607,0.589,0.669
+"Mauritania","Africa","MRT","Subnat","MRTr108","Nouadhibou",0.692,0.651,0.736
+"Mauritania","Africa","MRT","Subnat","MRTr109","Tagant",0.614,0.430,0.537
+"Mauritania","Africa","MRT","Subnat","MRTr111","Tiris-Zemmour",0.729,0.700,0.710
+"Mauritania","Africa","MRT","Subnat","MRTr106","Trarza incl Nouakchott",0.722,0.587,0.696
+"Mauritius","Africa","MUS","Subnat","MUSr101","North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",0.824,0.756,0.811
+"Mauritius","Africa","MUS","Subnat","MUSr103","Rodrigues",0.824,0.599,0.756
+"Mauritius","Africa","MUS","Subnat","MUSr102","South (Grand Port, Savanne, Plaines Wilhems, Black River)",0.824,0.790,0.822
+"Mexico","America","MEX","Subnat","MEXr101","Aguascalientes",0.799,0.736,0.793
+"Mexico","America","MEX","Subnat","MEXr102","Baja California",0.800,0.779,0.785
+"Mexico","America","MEX","Subnat","MEXr103","Baja California Sur",0.778,0.793,0.777
+"Mexico","America","MEX","Subnat","MEXr104","Campeche",0.794,0.722,0.733
+"Mexico","America","MEX","Subnat","MEXr107","Chiapas",0.759,0.613,0.667
+"Mexico","America","MEX","Subnat","MEXr108","Chihuahua",0.748,0.754,0.788
+"Mexico","America","MEX","Subnat","MEXr105","Coahuila",0.781,0.758,0.791
+"Mexico","America","MEX","Subnat","MEXr106","Colima",0.792,0.736,0.775
+"Mexico","America","MEX","Subnat","MEXr109","Distrito Federal",0.778,0.871,0.799
+"Mexico","America","MEX","Subnat","MEXr110","Durango",0.762,0.719,0.765
+"Mexico","America","MEX","Subnat","MEXr111","Guanajuato",0.774,0.674,0.765
+"Mexico","America","MEX","Subnat","MEXr112","Guerrero",0.744,0.657,0.685
+"Mexico","America","MEX","Subnat","MEXr113","Hidalgo",0.770,0.716,0.729
+"Mexico","America","MEX","Subnat","MEXr114","Jalisco",0.777,0.730,0.797
+"Mexico","America","MEX","Subnat","MEXr115","Mexico",0.768,0.761,0.760
+"Mexico","America","MEX","Subnat","MEXr116","Michoacan de Ocampo",0.773,0.656,0.749
+"Mexico","America","MEX","Subnat","MEXr117","Morelos",0.786,0.733,0.750
+"Mexico","America","MEX","Subnat","MEXr118","Nayarit",0.754,0.751,0.760
+"Mexico","America","MEX","Subnat","MEXr119","Nuevo Leon",0.781,0.776,0.801
+"Mexico","America","MEX","Subnat","MEXr120","Oaxaca",0.766,0.639,0.667
+"Mexico","America","MEX","Subnat","MEXr121","Puebla",0.757,0.690,0.719
+"Mexico","America","MEX","Subnat","MEXr122","Queretaro",0.780,0.750,0.770
+"Mexico","America","MEX","Subnat","MEXr123","Quintana Roo",0.773,0.752,0.756
+"Mexico","America","MEX","Subnat","MEXr124","San Luis Potosi",0.779,0.705,0.737
+"Mexico","America","MEX","Subnat","MEXr125","Sinaloa",0.796,0.779,0.771
+"Mexico","America","MEX","Subnat","MEXr126","Sonora",0.773,0.791,0.779
+"Mexico","America","MEX","Subnat","MEXr127","Tabasco",0.794,0.735,0.727
+"Mexico","America","MEX","Subnat","MEXr128","Tamaulipas",0.788,0.753,0.770
+"Mexico","America","MEX","Subnat","MEXr129","Tlaxcala",0.783,0.729,0.738
+"Mexico","America","MEX","Subnat","MEXr130","Veracruz",0.772,0.685,0.714
+"Mexico","America","MEX","Subnat","MEXr131","Yucatan",0.781,0.724,0.752
+"Mexico","America","MEX","Subnat","MEXr132","Zacatecas",0.771,0.693,0.770
+"Moldova","Europe","MDA","Subnat","MDAr102","Center",0.744,0.752,0.731
+"Moldova","Europe","MDA","Subnat","MDAr104","Chisinau",0.756,0.918,0.839
+"Moldova","Europe","MDA","Subnat","MDAr101","North",0.748,0.761,0.730
+"Moldova","Europe","MDA","Subnat","MDAr103","South",0.766,0.772,0.752
+"Mongolia","Asia/Pacific","MNG","Subnat","MNGr103","Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)",0.808,0.688,0.698
+"Mongolia","Asia/Pacific","MNG","Subnat","MNGr104","Eastern (Dornod, Sukhbaatar, Khentii)",0.793,0.641,0.665
+"Mongolia","Asia/Pacific","MNG","Subnat","MNGr102","Khangai (Arkhangai, Bayankhongor, Bulgan, Uvurkhangai, Khuvsgul, Orkhon)",0.744,0.652,0.654
+"Mongolia","Asia/Pacific","MNG","Subnat","MNGr105","Ulaanbaatar",0.799,0.789,0.753
+"Mongolia","Asia/Pacific","MNG","Subnat","MNGr101","Western (Bayan-Ulgii, Govi-Altai, Zavkhan, Uvs, Khovd)",0.760,0.643,0.622
+"Monte Negro","Europe","MNE","Subnat","MNEr102","Centre",0.867,0.848,0.811
+"Monte Negro","Europe","MNE","Subnat","MNEr101","North",0.867,0.802,0.811
+"Monte Negro","Europe","MNE","Subnat","MNEr103","South",0.867,0.786,0.793
+"Morocco","Africa","MAR","Subnat","MARr103","Centre",0.850,0.662,0.658
+"Morocco","Africa","MAR","Subnat","MARr102","Centre north",0.822,0.608,0.641
+"Morocco","Africa","MAR","Subnat","MARr105","Centre south",0.814,0.564,0.641
+"Morocco","Africa","MAR","Subnat","MARr104","Eastern",0.835,0.511,0.631
+"Morocco","Africa","MAR","Subnat","MARr101","North west",0.834,0.634,0.654
+"Morocco","Africa","MAR","Subnat","MARr107","South",0.803,0.567,0.648
+"Morocco","Africa","MAR","Subnat","MARr106","Tensift",0.841,0.496,0.645
+"Mozambique","Africa","MOZ","Subnat","MOZr102","Cabo delgado",0.589,0.281,0.338
+"Mozambique","Africa","MOZ","Subnat","MOZr109","Gaza",0.602,0.384,0.368
+"Mozambique","Africa","MOZ","Subnat","MOZr108","Inhambane",0.712,0.414,0.349
+"Mozambique","Africa","MOZ","Subnat","MOZr106","Manica",0.593,0.466,0.401
+"Mozambique","Africa","MOZ","Subnat","MOZr111","Maputo Cidade",0.662,0.640,0.534
+"Mozambique","Africa","MOZ","Subnat","MOZr110","Maputo Provincia",0.628,0.527,0.447
+"Mozambique","Africa","MOZ","Subnat","MOZr103","Nampula",0.692,0.334,0.356
+"Mozambique","Africa","MOZ","Subnat","MOZr101","Niassa",0.618,0.333,0.348
+"Mozambique","Africa","MOZ","Subnat","MOZr107","Sofala",0.610,0.424,0.406
+"Mozambique","Africa","MOZ","Subnat","MOZr105","Tete",0.569,0.322,0.344
+"Mozambique","Africa","MOZ","Subnat","MOZr104","Zambezia",0.549,0.366,0.361
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr114","Ayeyarwaddy",0.681,0.520,0.493
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr107","Bago",0.679,0.533,0.533
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr104","Chin",0.639,0.584,0.552
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr101","Kachin",0.726,0.564,0.600
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr102","Kayah",0.751,0.531,0.573
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr103","Kayin",0.678,0.458,0.556
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr108","Magway",0.739,0.510,0.537
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr109","Mandalay, NayPyitaw",0.711,0.542,0.567
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr110","Mon",0.766,0.512,0.579
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr111","Rakhine",0.733,0.447,0.492
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr105","Sagaing",0.710,0.504,0.530
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr113","Shan",0.650,0.358,0.563
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr106","Taninthayi",0.680,0.527,0.553
+"Myanmar","Asia/Pacific","MMR","Subnat","MMRr112","Yangon",0.761,0.634,0.628
+"Namibia","Africa","NAM","Subnat","NAMr101","Caprivi",0.573,0.581,0.572
+"Namibia","Africa","NAM","Subnat","NAMr102","Erongo",0.618,0.613,0.775
+"Namibia","Africa","NAM","Subnat","NAMr103","Hardap",0.655,0.522,0.743
+"Namibia","Africa","NAM","Subnat","NAMr104","Karas",0.640,0.580,0.735
+"Namibia","Africa","NAM","Subnat","NAMr108","Kavango",0.523,0.485,0.566
+"Namibia","Africa","NAM","Subnat","NAMr105","Khomas",0.646,0.683,0.782
+"Namibia","Africa","NAM","Subnat","NAMr106","Kunene",0.638,0.403,0.627
+"Namibia","Africa","NAM","Subnat","NAMr107","Ohangwena",0.558,0.505,0.561
+"Namibia","Africa","NAM","Subnat","NAMr109","Omaheke",0.635,0.435,0.651
+"Namibia","Africa","NAM","Subnat","NAMr110","Omusati",0.638,0.538,0.584
+"Namibia","Africa","NAM","Subnat","NAMr111","Oshana",0.634,0.606,0.658
+"Namibia","Africa","NAM","Subnat","NAMr112","Oshikoto",0.584,0.547,0.623
+"Namibia","Africa","NAM","Subnat","NAMr113","Otjozondjupa",0.623,0.493,0.724
+"Nepal","Asia/Pacific","NPL","Subnat","NPLr102","Central",0.752,0.437,0.526
+"Nepal","Asia/Pacific","NPL","Subnat","NPLr101","Eastern",0.750,0.519,0.548
+"Nepal","Asia/Pacific","NPL","Subnat","NPLr105","Far-western",0.714,0.506,0.548
+"Nepal","Asia/Pacific","NPL","Subnat","NPLr106","Karnali Province",0.731,0.473,0.480
+"Nepal","Asia/Pacific","NPL","Subnat","NPLr104","Mid-western",0.755,0.564,0.581
+"Nepal","Asia/Pacific","NPL","Subnat","NPLr107","Sudoorpaschim Province",0.739,0.502,0.508
+"Nepal","Asia/Pacific","NPL","Subnat","NPLr103","Western",0.765,0.632,0.592
+"Netherlands","Europe","NLD","Subnat","NLDr103","Drenthe",0.945,0.909,0.897
+"Netherlands","Europe","NLD","Subnat","NLDr106","Flevoland",0.952,0.906,0.912
+"Netherlands","Europe","NLD","Subnat","NLDr102","Friesland",0.946,0.906,0.898
+"Netherlands","Europe","NLD","Subnat","NLDr105","Gelderland",0.948,0.914,0.930
+"Netherlands","Europe","NLD","Subnat","NLDr101","Groningen",0.935,0.915,0.941
+"Netherlands","Europe","NLD","Subnat","NLDr112","Limburg",0.943,0.903,0.936
+"Netherlands","Europe","NLD","Subnat","NLDr111","Noord-Brabant",0.951,0.915,0.958
+"Netherlands","Europe","NLD","Subnat","NLDr108","Noord-Holland",0.952,0.936,1.000
+"Netherlands","Europe","NLD","Subnat","NLDr104","Overijssel",0.945,0.908,0.930
+"Netherlands","Europe","NLD","Subnat","NLDr107","Utrecht",0.957,0.946,0.989
+"Netherlands","Europe","NLD","Subnat","NLDr110","Zeeland",0.955,0.874,0.923
+"Netherlands","Europe","NLD","Subnat","NLDr109","Zuid-Holland",0.949,0.920,0.953
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr102","Auckland",0.975,0.947,0.932
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr104","Bay of Plenty",0.957,0.917,0.891
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr113","Canterbury",0.962,0.928,0.924
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr105","Gisborne",0.913,0.906,0.861
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr106","Hawkes Bay",0.948,0.912,0.882
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr108","Manawatu-Wanganui",0.946,0.910,0.875
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr111","Marlborough",0.965,0.913,0.928
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr101","Northland",0.949,0.908,0.859
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr114","Otago",0.958,0.933,0.905
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr115","Southland",0.944,0.897,0.915
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr107","Taranaki",0.952,0.904,0.962
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr110","Tasman - Nelson",0.969,0.927,0.887
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr103","Waikato",0.955,0.918,0.898
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr109","Wellington",0.964,0.955,0.954
+"New Zealand","Asia/Pacific","NZL","Subnat","NZLr112","West Coast",0.946,0.895,0.901
+"Nicaragua","America","NIC","Subnat","NICr103","Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))",0.793,0.438,0.501
+"Nicaragua","America","NIC","Subnat","NICr102","Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)",0.815,0.519,0.573
+"Nicaragua","America","NIC","Subnat","NICr101","Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)",0.852,0.666,0.650
+"Niger","Africa","NER","Subnat","NERr101","Agadez",0.754,0.395,0.437
+"Niger","Africa","NER","Subnat","NERr102","Diffa",0.754,0.181,0.404
+"Niger","Africa","NER","Subnat","NERr103","Dosso",0.593,0.251,0.364
+"Niger","Africa","NER","Subnat","NERr104","Maradi",0.622,0.236,0.374
+"Niger","Africa","NER","Subnat","NERr106","Tahoua",0.659,0.183,0.363
+"Niger","Africa","NER","Subnat","NERr105","Tillabery (incl Niamey)",0.653,0.436,0.437
+"Niger","Africa","NER","Subnat","NERr107","Zinder",0.629,0.215,0.354
+"Nigeria","Africa","NGA","Subnat","NGAr122","Abia",0.571,0.704,0.665
+"Nigeria","Africa","NGA","Subnat","NGAr137","Abuja FCT",0.593,0.679,0.667
+"Nigeria","Africa","NGA","Subnat","NGAr108","Adamawa",0.541,0.385,0.547
+"Nigeria","Africa","NGA","Subnat","NGAr101","Akwa Ibom",0.550,0.656,0.622
+"Nigeria","Africa","NGA","Subnat","NGAr102","Anambra",0.626,0.699,0.664
+"Nigeria","Africa","NGA","Subnat","NGAr103","Bauchi",0.478,0.314,0.511
+"Nigeria","Africa","NGA","Subnat","NGAr131","Bayelsa",0.687,0.697,0.575
+"Nigeria","Africa","NGA","Subnat","NGAr105","Benue",0.625,0.619,0.569
+"Nigeria","Africa","NGA","Subnat","NGAr106","Borno",0.572,0.415,0.565
+"Nigeria","Africa","NGA","Subnat","NGAr107","Cross River",0.585,0.691,0.571
+"Nigeria","Africa","NGA","Subnat","NGAr123","Delta",0.637,0.715,0.637
+"Nigeria","Africa","NGA","Subnat","NGAr132","Ebonyi",0.563,0.606,0.540
+"Nigeria","Africa","NGA","Subnat","NGAr104","Edo",0.601,0.659,0.623
+"Nigeria","Africa","NGA","Subnat","NGAr133","Ekiti",0.556,0.710,0.586
+"Nigeria","Africa","NGA","Subnat","NGAr124","Enugu",0.620,0.692,0.610
+"Nigeria","Africa","NGA","Subnat","NGAr134","Gombe",0.435,0.294,0.530
+"Nigeria","Africa","NGA","Subnat","NGAr109","Imo",0.570,0.723,0.659
+"Nigeria","Africa","NGA","Subnat","NGAr125","Jigawa",0.417,0.333,0.495
+"Nigeria","Africa","NGA","Subnat","NGAr110","Kaduna",0.436,0.517,0.590
+"Nigeria","Africa","NGA","Subnat","NGAr111","Kano",0.459,0.440,0.553
+"Nigeria","Africa","NGA","Subnat","NGAr112","Katsina",0.435,0.393,0.535
+"Nigeria","Africa","NGA","Subnat","NGAr126","Kebbi",0.400,0.184,0.509
+"Nigeria","Africa","NGA","Subnat","NGAr127","Kogi",0.478,0.626,0.576
+"Nigeria","Africa","NGA","Subnat","NGAr113","Kwara",0.595,0.526,0.594
+"Nigeria","Africa","NGA","Subnat","NGAr114","Lagos",0.624,0.755,0.672
+"Nigeria","Africa","NGA","Subnat","NGAr135","Nassarawa",0.515,0.608,0.608
+"Nigeria","Africa","NGA","Subnat","NGAr115","Niger",0.551,0.359,0.573
+"Nigeria","Africa","NGA","Subnat","NGAr116","Ogun",0.689,0.683,0.641
+"Nigeria","Africa","NGA","Subnat","NGAr117","Ondo",0.585,0.655,0.593
+"Nigeria","Africa","NGA","Subnat","NGAr128","Osun",0.602,0.661,0.582
+"Nigeria","Africa","NGA","Subnat","NGAr118","Oyo",0.615,0.668,0.614
+"Nigeria","Africa","NGA","Subnat","NGAr119","Plateau",0.537,0.596,0.560
+"Nigeria","Africa","NGA","Subnat","NGAr120","Rivers",0.584,0.720,0.647
+"Nigeria","Africa","NGA","Subnat","NGAr121","Sokoto",0.428,0.178,0.497
+"Nigeria","Africa","NGA","Subnat","NGAr129","Taraba",0.502,0.485,0.517
+"Nigeria","Africa","NGA","Subnat","NGAr130","Yobe",0.472,0.214,0.474
+"Nigeria","Africa","NGA","Subnat","NGAr136","Zamfora",0.501,0.281,0.510
+"North Macedonia","Europe","MKD","Subnat","MKDr108","East",0.824,0.676,0.749
+"North Macedonia","Europe","MKD","Subnat","MKDr104","North East",0.810,0.676,0.747
+"North Macedonia","Europe","MKD","Subnat","MKDr102","Pelagoniski",0.793,0.745,0.767
+"North Macedonia","Europe","MKD","Subnat","MKDr107","Poloski",0.798,0.690,0.775
+"North Macedonia","Europe","MKD","Subnat","MKDr101","Skopski",0.837,0.757,0.772
+"North Macedonia","Europe","MKD","Subnat","MKDr106","South East",0.780,0.643,0.751
+"North Macedonia","Europe","MKD","Subnat","MKDr105","South West",0.814,0.717,0.773
+"North Macedonia","Europe","MKD","Subnat","MKDr103","Vardarski",0.828,0.706,0.767
+"Norway","Europe","NOR","Subnat","NORr104","Agder og Rogaland",0.975,0.922,0.955
+"Norway","Europe","NOR","Subnat","NORr102","Hedmark og Oppland",0.960,0.906,0.923
+"Norway","Europe","NOR","Subnat","NORr107","Nord-Norge",0.957,0.918,0.952
+"Norway","Europe","NOR","Subnat","NORr101","Oslo og Akershus",0.988,0.953,1.000
+"Norway","Europe","NOR","Subnat","NORr103","Sor-Ostlandet",0.971,0.888,0.924
+"Norway","Europe","NOR","Subnat","NORr106","Trondelag",0.977,0.936,0.955
+"Norway","Europe","NOR","Subnat","NORr105","Vestlandet",0.985,0.934,0.956
+"Pakistan","Asia/Pacific","PAK","Subnat","PAKr107","AJK",0.693,0.502,0.597
+"Pakistan","Asia/Pacific","PAK","Subnat","PAKr104","Balochistan",0.708,0.250,0.562
+"Pakistan","Asia/Pacific","PAK","Subnat","PAKr108","FATA",0.809,0.249,0.471
+"Pakistan","Asia/Pacific","PAK","Subnat","PAKr106","Gilgit Baltistan",0.681,0.458,0.620
+"Pakistan","Asia/Pacific","PAK","Subnat","PAKr105","Islamabad (ICT)",0.771,0.567,0.653
+"Pakistan","Asia/Pacific","PAK","Subnat","PAKr103","Khyber Pakhtunkhwa (NWFrontier)",0.738,0.335,0.552
+"Pakistan","Asia/Pacific","PAK","Subnat","PAKr101","Punjab",0.695,0.407,0.588
+"Pakistan","Asia/Pacific","PAK","Subnat","PAKr102","Sindh",0.711,0.349,0.557
+"Palestine","Asia/Pacific","PSE","Subnat","PSEr104","Bethlehem, Hebron",0.816,0.680,0.652
+"Palestine","Asia/Pacific","PSE","Subnat","PSEr106","Deir El-Balah, Khan Yunis, Rafah",0.835,0.736,0.586
+"Palestine","Asia/Pacific","PSE","Subnat","PSEr101","Jenin, Tubas, Tulkarm, Nablus, Qalqiliya",0.815,0.709,0.655
+"Palestine","Asia/Pacific","PSE","Subnat","PSEr103","Jerusalem",0.857,0.658,0.665
+"Palestine","Asia/Pacific","PSE","Subnat","PSEr105","North Gaza, Gaza",0.810,0.711,0.594
+"Palestine","Asia/Pacific","PSE","Subnat","PSEr102","Salfit, Ramallah, Al-Bireh, Jericho, Al Aghwar",0.834,0.695,0.662
+"Panama","America","PAN","Subnat","PANr101","Bocas del Toro",0.865,0.596,0.771
+"Panama","America","PAN","Subnat","PANr104","Chiriqui",0.865,0.707,0.853
+"Panama","America","PAN","Subnat","PANr102","Cocle",0.865,0.671,0.812
+"Panama","America","PAN","Subnat","PANr103","Colon",0.865,0.727,0.859
+"Panama","America","PAN","Subnat","PANr105","Darien",0.865,0.554,0.733
+"Panama","America","PAN","Subnat","PANr111","Embera Wounaan",0.865,0.487,0.588
+"Panama","America","PAN","Subnat","PANr106","Herrera",0.865,0.707,0.852
+"Panama","America","PAN","Subnat","PANr110","Kuna Yala",0.865,0.420,0.581
+"Panama","America","PAN","Subnat","PANr107","Los Santos",0.865,0.691,0.854
+"Panama","America","PAN","Subnat","PANr112","Ngobe Bugle",0.865,0.417,0.530
+"Panama","America","PAN","Subnat","PANr108","Panama",0.865,0.766,0.884
+"Panama","America","PAN","Subnat","PANr109","Veraguas",0.865,0.632,0.758
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr120","Autonomous Region of Bougainville",0.761,0.502,0.558
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr103","Central",0.734,0.439,0.579
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr110","Chimbu, Simbu",0.680,0.476,0.578
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr118","East New Britain",0.731,0.517,0.580
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr114","East Sepik",0.687,0.445,0.550
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr111","Eastern Highlands",0.661,0.413,0.529
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr108","Enga",0.611,0.365,0.528
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr102","Gulf",0.715,0.379,0.531
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr121","Hela",0.712,0.286,0.488
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr122","Jiwaka",0.693,0.461,0.531
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr113","Madang",0.729,0.441,0.547
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr116","Manus",0.717,0.550,0.585
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr105","Milne Bay",0.746,0.439,0.547
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr112","Morobe",0.695,0.491,0.617
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr104","National Capital District",0.703,0.654,0.841
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr117","New Ireland",0.706,0.554,0.555
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr106","Northern, Oro",0.704,0.441,0.556
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr107","Southern Highlands",0.604,0.378,0.514
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr119","West New Britain",0.738,0.483,0.590
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr115","West Sepik, Sandaun",0.715,0.402,0.525
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr101","Western",0.716,0.469,0.539
+"Papua New Guinea","Asia/Pacific","PNG","Subnat","PNGr109","Western Highlands",0.751,0.471,0.574
+"Paraguay","America","PRY","Subnat","PRYr105","Central (Asuncion, Central)",0.789,0.707,0.771
+"Paraguay","America","PRY","Subnat","PRYr102","North-East (Caaguazu, Alto Parana, Canideyu)",0.761,0.629,0.705
+"Paraguay","America","PRY","Subnat","PRYr101","North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)",0.759,0.634,0.686
+"Paraguay","America","PRY","Subnat","PRYr104","South-East (Guaira, Misiones, Paraguari, Neembucu)",0.780,0.622,0.723
+"Paraguay","America","PRY","Subnat","PRYr103","South-West (Caazapa, Itapua)",0.775,0.626,0.708
+"Peru","America","PER","Subnat","PERr106","Central (Huancavelica, Huanuco, Junin, Pasco)",0.793,0.697,0.669
+"Peru","America","PER","Subnat","PERr103","East (Madre de Dios, Cusco, Puno, Apurimac)",0.776,0.685,0.649
+"Peru","America","PER","Subnat","PERr101","North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",0.812,0.689,0.699
+"Peru","America","PER","Subnat","PERr102","North East (Amazonas, Loreto, San Martin, Ucayali)",0.777,0.666,0.668
+"Peru","America","PER","Subnat","PERr104","South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",0.820,0.797,0.733
+"Peru","America","PER","Subnat","PERr105","West (Ancash, Lima, Callao)",0.823,0.841,0.797
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr117","ARMM",0.694,0.519,0.550
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr102","Cordillera Admin Region",0.800,0.690,0.685
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr103","I-Ilocos",0.755,0.672,0.694
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr104","II-Cagayan Valley",0.767,0.637,0.661
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr105","III-Central Luzon",0.780,0.652,0.713
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr106","IVA-CALABARZON",0.774,0.681,0.719
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr107","IVB-MIMAROPA",0.747,0.630,0.640
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr112","IX-Zamboanga Peninsula",0.763,0.618,0.632
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr101","National Capital Region",0.801,0.738,0.743
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr108","V-Bicol",0.735,0.653,0.636
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr109","VI-Western Visayas",0.714,0.647,0.646
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr110","VII-Central Visayas",0.754,0.643,0.667
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr111","VIII-Eastern Visayas",0.749,0.649,0.650
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr113","X-Northern Mindanao",0.749,0.648,0.652
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr114","XI-Davao",0.767,0.658,0.633
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr115","XII-SOCCSKSARGEN",0.712,0.618,0.627
+"Philippines","Asia/Pacific","PHL","Subnat","PHLr116","XIII-Caraga",0.758,0.641,0.664
+"Poland","Europe","POL","Subnat","POLr112","Dolnoslaskie",0.861,0.900,0.907
+"Poland","Europe","POL","Subnat","POLr114","Kujawsko-Pomorskie",0.861,0.859,0.853
+"Poland","Europe","POL","Subnat","POLr101","Lodzkie",0.852,0.878,0.882
+"Poland","Europe","POL","Subnat","POLr105","Lubelskie",0.872,0.886,0.828
+"Poland","Europe","POL","Subnat","POLr111","Lubuskie",0.852,0.864,0.857
+"Poland","Europe","POL","Subnat","POLr103","Malopolskie",0.887,0.901,0.877
+"Poland","Europe","POL","Subnat","POLr102","Mazowieckie",0.875,0.934,0.972
+"Poland","Europe","POL","Subnat","POLr113","Opolskie",0.872,0.873,0.851
+"Poland","Europe","POL","Subnat","POLr106","Podkarpackie",0.890,0.883,0.832
+"Poland","Europe","POL","Subnat","POLr108","Podlaskie",0.880,0.890,0.837
+"Poland","Europe","POL","Subnat","POLr116","Pomorskie",0.877,0.900,0.887
+"Poland","Europe","POL","Subnat","POLr104","Slaskie",0.861,0.893,0.895
+"Poland","Europe","POL","Subnat","POLr107","Swietokrzyskie",0.869,0.883,0.835
+"Poland","Europe","POL","Subnat","POLr115","Warminsko-Mazurskie",0.857,0.847,0.828
+"Poland","Europe","POL","Subnat","POLr109","Wielkopolskie",0.869,0.879,0.904
+"Poland","Europe","POL","Subnat","POLr110","Zachodniopomorskie",0.861,0.873,0.860
+"Portugal","Europe","PRT","Subnat","PRTr105","Alentejo",0.921,0.751,0.863
+"Portugal","Europe","PRT","Subnat","PRTr102","Algarve",0.921,0.742,0.895
+"Portugal","Europe","PRT","Subnat","PRTr104","Area Metropolitana de Lisboa",0.944,0.843,0.918
+"Portugal","Europe","PRT","Subnat","PRTr103","Centro",0.941,0.783,0.854
+"Portugal","Europe","PRT","Subnat","PRTr101","Norte",0.947,0.767,0.852
+"Portugal","Europe","PRT","Subnat","PRTr107","Regiao Autonoma da Madeira",0.892,0.708,0.871
+"Portugal","Europe","PRT","Subnat","PRTr106","Regiao Autonoma dos Acores",0.892,0.689,0.858
+"Romania","Europe","ROU","Subnat","ROUr108","Bucuresti",0.858,0.924,1.000
+"Romania","Europe","ROU","Subnat","ROUr107","Centru",0.840,0.764,0.853
+"Romania","Europe","ROU","Subnat","ROUr101","Nord-Est",0.818,0.728,0.784
+"Romania","Europe","ROU","Subnat","ROUr106","Nord-Vest",0.836,0.795,0.846
+"Romania","Europe","ROU","Subnat","ROUr103","Sud",0.833,0.705,0.819
+"Romania","Europe","ROU","Subnat","ROUr102","Sud-Est",0.816,0.730,0.832
+"Romania","Europe","ROU","Subnat","ROUr104","Sud-Vest Oltenia",0.843,0.745,0.819
+"Romania","Europe","ROU","Subnat","ROUr105","Vest",0.833,0.778,0.864
+"Russian Federation","Europe","RUS","Subnat","RUSr101","The Central Federal District",0.778,0.871,0.890
+"Russian Federation","Europe","RUS","Subnat","RUSr108","The Far East  Federal District",0.721,0.827,0.883
+"Russian Federation","Europe","RUS","Subnat","RUSr102","The North West Federal District",0.765,0.878,0.861
+"Russian Federation","Europe","RUS","Subnat","RUSr104","The North-Caucasian Federal District",0.809,0.894,0.690
+"Russian Federation","Europe","RUS","Subnat","RUSr105","The Privolzhsky (Volga) Federal District",0.753,0.866,0.797
+"Russian Federation","Europe","RUS","Subnat","RUSr107","The Siberian  Federal District",0.730,0.841,0.815
+"Russian Federation","Europe","RUS","Subnat","RUSr103","The South Federal District",0.767,0.856,0.778
+"Russian Federation","Europe","RUS","Subnat","RUSr106","The Urals  Federal District",0.745,0.864,0.919
+"Rwanda","Africa","RWA","Subnat","RWAr101","City of Kigali",0.756,0.572,0.568
+"Rwanda","Africa","RWA","Subnat","RWAr105","East",0.695,0.456,0.459
+"Rwanda","Africa","RWA","Subnat","RWAr104","North",0.693,0.435,0.444
+"Rwanda","Africa","RWA","Subnat","RWAr102","South",0.695,0.440,0.441
+"Rwanda","Africa","RWA","Subnat","RWAr103","West",0.723,0.429,0.459
+"Saint Lucia","America","LCA","Subnat","LCAr102","St Lucia rural",0.786,0.643,0.725
+"Saint Lucia","America","LCA","Subnat","LCAr101","St Lucia urban",0.786,0.635,0.718
+"Samoa","Asia/Pacific","WSM","Subnat","WSMr101","Apia Urban Area",0.804,0.791,0.629
+"Samoa","Asia/Pacific","WSM","Subnat","WSMr102","North West Upolu",0.804,0.715,0.595
+"Samoa","Asia/Pacific","WSM","Subnat","WSMr103","Rest of Upolu",0.816,0.715,0.592
+"Samoa","Asia/Pacific","WSM","Subnat","WSMr104","Savaii",0.827,0.689,0.591
+"Sao Tome & Principe","Africa","STP","Subnat","STPr101","Regiao Centro",0.748,0.603,0.574
+"Sao Tome & Principe","Africa","STP","Subnat","STPr104","Regiao do Principe",0.731,0.576,0.569
+"Sao Tome & Principe","Africa","STP","Subnat","STPr103","Regiao Norte",0.705,0.538,0.533
+"Sao Tome & Principe","Africa","STP","Subnat","STPr102","Regiao Sul",0.721,0.535,0.523
+"Saudi Arabia","Asia/Pacific","SAU","Subnat","SAUr101","Center (Riadh, Qassim)",0.876,0.882,0.943
+"Saudi Arabia","Asia/Pacific","SAU","Subnat","SAUr104","Eastern province",0.876,0.780,0.938
+"Saudi Arabia","Asia/Pacific","SAU","Subnat","SAUr105","North (Northern Borders, Al Jawf, Hail)",0.876,0.826,0.972
+"Saudi Arabia","Asia/Pacific","SAU","Subnat","SAUr103","South (Bahah, Jizan, Asir, Najran)",0.876,0.765,0.932
+"Saudi Arabia","Asia/Pacific","SAU","Subnat","SAUr102","West (Makka, Madinah, Tabuk)",0.876,0.834,0.903
+"Senegal","Africa","SEN","Subnat","SENr101","Dakar",0.767,0.483,0.604
+"Senegal","Africa","SEN","Subnat","SENr103","Diourbel",0.722,0.161,0.508
+"Senegal","Africa","SEN","Subnat","SENr109","Fatick",0.731,0.359,0.485
+"Senegal","Africa","SEN","Subnat","SENr106","Kaolack",0.724,0.269,0.496
+"Senegal","Africa","SEN","Subnat","SENr110","Kolda",0.637,0.343,0.427
+"Senegal","Africa","SEN","Subnat","SENr108","Louga",0.688,0.265,0.505
+"Senegal","Africa","SEN","Subnat","SENr104","Saint Louis",0.729,0.280,0.490
+"Senegal","Africa","SEN","Subnat","SENr105","Tambacounda",0.703,0.285,0.466
+"Senegal","Africa","SEN","Subnat","SENr107","Thies",0.764,0.406,0.571
+"Senegal","Africa","SEN","Subnat","SENr102","Ziguinchor",0.726,0.557,0.505
+"Serbia","Europe","SRB","Subnat","SRBr101","Belgrade",0.834,0.861,0.797
+"Serbia","Europe","SRB","Subnat","SRBr104","South and East Serbia",0.834,0.758,0.789
+"Serbia","Europe","SRB","Subnat","SRBr103","Sumadija and West Serbia",0.834,0.746,0.796
+"Serbia","Europe","SRB","Subnat","SRBr102","Vojvodina",0.834,0.759,0.793
+"Sierra Leone","Africa","SLE","Subnat","SLEr109","Bo",0.593,0.415,0.407
+"Sierra Leone","Africa","SLE","Subnat","SLEr101","Bombali",0.664,0.405,0.405
+"Sierra Leone","Africa","SLE","Subnat","SLEr110","Bonthe",0.713,0.339,0.379
+"Sierra Leone","Africa","SLE","Subnat","SLEr106","Kailahun",0.670,0.380,0.368
+"Sierra Leone","Africa","SLE","Subnat","SLEr102","Kambia",0.587,0.353,0.406
+"Sierra Leone","Africa","SLE","Subnat","SLEr107","Kenema",0.566,0.397,0.405
+"Sierra Leone","Africa","SLE","Subnat","SLEr103","Koinadugu",0.665,0.318,0.382
+"Sierra Leone","Africa","SLE","Subnat","SLEr108","Kono",0.626,0.395,0.388
+"Sierra Leone","Africa","SLE","Subnat","SLEr111","Moyamba",0.600,0.365,0.363
+"Sierra Leone","Africa","SLE","Subnat","SLEr104","Port Loko",0.535,0.372,0.395
+"Sierra Leone","Africa","SLE","Subnat","SLEr112","Pujehun",0.644,0.316,0.365
+"Sierra Leone","Africa","SLE","Subnat","SLEr105","Tonkolili",0.650,0.359,0.370
+"Sierra Leone","Africa","SLE","Subnat","SLEr113","Western Rural",0.589,0.507,0.472
+"Sierra Leone","Africa","SLE","Subnat","SLEr114","Western Urban",0.675,0.607,0.552
+"Slovakia","Europe","SVK","Subnat","SVKr101","Bratislavsky kraj",0.867,0.971,0.999
+"Slovakia","Europe","SVK","Subnat","SVKr103","Stredne Slovensko",0.836,0.812,0.833
+"Slovakia","Europe","SVK","Subnat","SVKr104","Vychodne Slovensko",0.840,0.785,0.810
+"Slovakia","Europe","SVK","Subnat","SVKr102","Zapadne Slovensko",0.848,0.820,0.851
+"Slovenia","Europe","SVN","Subnat","SVNr110","Gorenjska",0.947,0.923,0.885
+"Slovenia","Europe","SVN","Subnat","SVNr111","Goriska",0.927,0.906,0.891
+"Slovenia","Europe","SVN","Subnat","SVNr107","Jugovzhodna Slovenija",0.922,0.890,0.896
+"Slovenia","Europe","SVN","Subnat","SVNr103","Koroska",0.907,0.890,0.871
+"Slovenia","Europe","SVN","Subnat","SVNr112","Obalno-kraska",0.932,0.915,0.907
+"Slovenia","Europe","SVN","Subnat","SVNr109","Osrednjeslovenska",0.953,0.947,0.958
+"Slovenia","Europe","SVN","Subnat","SVNr102","Podravska",0.915,0.911,0.874
+"Slovenia","Europe","SVN","Subnat","SVNr101","Pomurska",0.906,0.874,0.843
+"Slovenia","Europe","SVN","Subnat","SVNr106","Posavska",0.907,0.886,0.875
+"Slovenia","Europe","SVN","Subnat","SVNr108","Primorsko-notranjska",0.924,0.899,0.857
+"Slovenia","Europe","SVN","Subnat","SVNr104","Savinjska",0.921,0.900,0.891
+"Slovenia","Europe","SVN","Subnat","SVNr105","Zasavska",0.915,0.887,0.807
+"Somalia","Africa","SOM","Subnat","SOMr102","Awdal",0.768,0.209,0.402
+"Somalia","Africa","SOM","Subnat","SOMr109","Bakool",0.527,0.152,0.322
+"Somalia","Africa","SOM","Subnat","SOMr116","Banadir",0.492,0.387,0.509
+"Somalia","Africa","SOM","Subnat","SOMr108","Bari",0.607,0.288,0.451
+"Somalia","Africa","SOM","Subnat","SOMr110","Bay",0.485,0.159,0.332
+"Somalia","Africa","SOM","Subnat","SOMr117","Galguduud",0.532,0.119,0.341
+"Somalia","Africa","SOM","Subnat","SOMr111","Gedo",0.546,0.187,0.350
+"Somalia","Africa","SOM","Subnat","SOMr113","Hiran",0.783,0.090,0.348
+"Somalia","Africa","SOM","Subnat","SOMr118","Lower Juba",0.464,0.175,0.333
+"Somalia","Africa","SOM","Subnat","SOMr115","Lower Shabelle",0.461,0.201,0.364
+"Somalia","Africa","SOM","Subnat","SOMr112","Middle Juba",0.619,0.061,0.329
+"Somalia","Africa","SOM","Subnat","SOMr114","Middle Shabelle",0.579,0.148,0.366
+"Somalia","Africa","SOM","Subnat","SOMr106","Mudug",0.592,0.218,0.406
+"Somalia","Africa","SOM","Subnat","SOMr107","Nugal",0.580,0.241,0.385
+"Somalia","Africa","SOM","Subnat","SOMr103","Sanaag",0.687,0.319,0.411
+"Somalia","Africa","SOM","Subnat","SOMr104","Sool",0.632,0.167,0.367
+"Somalia","Africa","SOM","Subnat","SOMr105","Togdhere",0.513,0.191,0.345
+"Somalia","Africa","SOM","Subnat","SOMr101","W Galbeed",0.555,0.350,0.490
+"South Africa","Africa","ZAF","Subnat","ZAFr102","Eastern Cape",0.620,0.716,0.693
+"South Africa","Africa","ZAF","Subnat","ZAFr104","Free State",0.620,0.753,0.772
+"South Africa","Africa","ZAF","Subnat","ZAFr107","Gauteng",0.664,0.797,0.752
+"South Africa","Africa","ZAF","Subnat","ZAFr105","KwaZulu Natal",0.668,0.739,0.724
+"South Africa","Africa","ZAF","Subnat","ZAFr108","Mpumalanga",0.605,0.735,0.702
+"South Africa","Africa","ZAF","Subnat","ZAFr106","North West",0.618,0.710,0.705
+"South Africa","Africa","ZAF","Subnat","ZAFr103","Northern Cape",0.651,0.705,0.752
+"South Africa","Africa","ZAF","Subnat","ZAFr109","Northern Province",0.694,0.753,0.695
+"South Africa","Africa","ZAF","Subnat","ZAFr101","Western Cape",0.670,0.780,0.811
+"South Korea","Asia/Pacific","KOR","Subnat","KORr101","Capital Region",0.996,0.943,0.919
+"South Korea","Asia/Pacific","KOR","Subnat","KORr105","Chungcheong Region",0.985,0.812,0.949
+"South Korea","Asia/Pacific","KOR","Subnat","KORr106","Gangwon Region",0.964,0.852,0.894
+"South Korea","Asia/Pacific","KOR","Subnat","KORr103","Gyeongbuk Region",0.972,0.711,0.909
+"South Korea","Asia/Pacific","KOR","Subnat","KORr102","Gyeongnam Region",0.972,0.909,0.929
+"South Korea","Asia/Pacific","KOR","Subnat","KORr107","Jeju",1.000,0.838,0.891
+"South Korea","Asia/Pacific","KOR","Subnat","KORr104","Jeolla Region",0.977,0.838,0.909
+"South Sudan","Africa","SSD","Subnat","SSDr109","Central Equatoria",0.501,0.586,0.337
+"South Sudan","Africa","SSD","Subnat","SSDr110","Eastern Equatoria",0.494,0.358,0.289
+"South Sudan","Africa","SSD","Subnat","SSDr102","Jonglei",0.633,0.203,0.292
+"South Sudan","Africa","SSD","Subnat","SSDr107","Lakes",0.595,0.218,0.323
+"South Sudan","Africa","SSD","Subnat","SSDr105","Northern Bahr El Ghazal",0.457,0.216,0.296
+"South Sudan","Africa","SSD","Subnat","SSDr103","Unity",0.660,0.200,0.307
+"South Sudan","Africa","SSD","Subnat","SSDr101","Upper Nile",0.566,0.418,0.326
+"South Sudan","Africa","SSD","Subnat","SSDr104","Warrap",0.507,0.205,0.288
+"South Sudan","Africa","SSD","Subnat","SSDr106","Western Bahr El Ghazal",0.531,0.422,0.322
+"South Sudan","Africa","SSD","Subnat","SSDr108","Western Equatoria",0.516,0.481,0.320
+"Spain","Europe","ESP","Subnat","ESPr115","Andalucia",0.948,0.826,0.852
+"Spain","Europe","ESP","Subnat","ESPr107","Aragon",0.976,0.852,0.912
+"Spain","Europe","ESP","Subnat","ESPr119","Canarias",0.962,0.795,0.864
+"Spain","Europe","ESP","Subnat","ESPr103","Cantabria",0.968,0.862,0.886
+"Spain","Europe","ESP","Subnat","ESPr109","Castilla y Leon",0.980,0.853,0.890
+"Spain","Europe","ESP","Subnat","ESPr110","Castilla-la Mancha",0.968,0.787,0.863
+"Spain","Europe","ESP","Subnat","ESPr112","Cataluna",0.974,0.855,0.924
+"Spain","Europe","ESP","Subnat","ESPr117","Ciudad Autonoma de Ceuta",0.930,0.785,0.862
+"Spain","Europe","ESP","Subnat","ESPr118","Ciudad Autonoma de Melilla",0.930,0.785,0.849
+"Spain","Europe","ESP","Subnat","ESPr108","Comunidad de Madrid",0.997,0.881,0.947
+"Spain","Europe","ESP","Subnat","ESPr105","Comunidad Foral de Navarra",0.985,0.868,0.929
+"Spain","Europe","ESP","Subnat","ESPr113","Comunidad Valenciana",0.962,0.848,0.879
+"Spain","Europe","ESP","Subnat","ESPr111","Extremadura",0.956,0.800,0.851
+"Spain","Europe","ESP","Subnat","ESPr101","Galicia",0.970,0.852,0.883
+"Spain","Europe","ESP","Subnat","ESPr114","Illes Balears",0.973,0.761,0.909
+"Spain","Europe","ESP","Subnat","ESPr106","La Rioja",0.973,0.853,0.909
+"Spain","Europe","ESP","Subnat","ESPr104","Pais Vasco",0.977,0.881,0.939
+"Spain","Europe","ESP","Subnat","ESPr102","Principado de Asturias",0.958,0.866,0.879
+"Spain","Europe","ESP","Subnat","ESPr116","Region de Murcia",0.953,0.829,0.867
+"Sudan","Africa","SDN","Subnat","SDNr105","Al Gedarif",0.690,0.282,0.483
+"Sudan","Africa","SDN","Subnat","SDNr107","Al Gezira",0.729,0.373,0.615
+"Sudan","Africa","SDN","Subnat","SDNr110","Blue Nile",0.622,0.228,0.531
+"Sudan","Africa","SDN","Subnat","SDNr104","Kassala",0.731,0.258,0.509
+"Sudan","Africa","SDN","Subnat","SDNr106","Khartoum",0.732,0.499,0.678
+"Sudan","Africa","SDN","Subnat","SDNr102","Nahr El Nil",0.784,0.442,0.634
+"Sudan","Africa","SDN","Subnat","SDNr113","North Darfur",0.659,0.349,0.443
+"Sudan","Africa","SDN","Subnat","SDNr111","North Kordofan",0.728,0.294,0.473
+"Sudan","Africa","SDN","Subnat","SDNr101","Northern",0.781,0.458,0.691
+"Sudan","Africa","SDN","Subnat","SDNr103","Red Sea",0.730,0.377,0.522
+"Sudan","Africa","SDN","Subnat","SDNr109","Sinnar",0.727,0.313,0.540
+"Sudan","Africa","SDN","Subnat","SDNr115","South Darfur",0.662,0.286,0.454
+"Sudan","Africa","SDN","Subnat","SDNr112","South Kordofan",0.685,0.264,0.460
+"Sudan","Africa","SDN","Subnat","SDNr114","West Darfur",0.673,0.291,0.450
+"Sudan","Africa","SDN","Subnat","SDNr108","White Nile",0.688,0.334,0.528
+"Suriname","America","SUR","Subnat","SURr105","Brokopondo and Sipaliwini",0.799,0.450,0.592
+"Suriname","America","SUR","Subnat","SURr104","Commewijne and Marowijne",0.788,0.645,0.711
+"Suriname","America","SUR","Subnat","SURr103","Nickerie, Coronie and Saramacca",0.795,0.651,0.741
+"Suriname","America","SUR","Subnat","SURr101","Paramaribo",0.752,0.743,0.753
+"Suriname","America","SUR","Subnat","SURr102","Wanica and Para",0.773,0.696,0.742
+"Sweden","Europe","SWE","Subnat","SWEr107","Mellersta Norrland",0.952,0.911,0.928
+"Sweden","Europe","SWE","Subnat","SWEr106","Norra Mellansverige",0.961,0.900,0.916
+"Sweden","Europe","SWE","Subnat","SWEr102","Ostra Mellansverige",0.966,0.917,0.925
+"Sweden","Europe","SWE","Subnat","SWEr108","Ovre Norrland",0.954,0.919,0.947
+"Sweden","Europe","SWE","Subnat","SWEr103","Smaland med oarna",0.975,0.908,0.925
+"Sweden","Europe","SWE","Subnat","SWEr101","Stockholm",0.980,0.937,1.000
+"Sweden","Europe","SWE","Subnat","SWEr104","Sydsverige",0.968,0.922,0.927
+"Sweden","Europe","SWE","Subnat","SWEr105","Vastsverige",0.968,0.919,0.946
+"Switzerland","Europe","CHE","Subnat","CHEr106","Central Switzerland",0.990,0.890,0.981
+"Switzerland","Europe","CHE","Subnat","CHEr105","Eastern Switzerland",0.977,0.879,0.963
+"Switzerland","Europe","CHE","Subnat","CHEr102","Espace Mittelland",0.977,0.903,0.971
+"Switzerland","Europe","CHE","Subnat","CHEr101","Lake Geneva region",0.993,0.932,0.974
+"Switzerland","Europe","CHE","Subnat","CHEr103","Northwestern Switzerland",0.984,0.901,0.988
+"Switzerland","Europe","CHE","Subnat","CHEr107","Ticino",0.999,0.898,0.989
+"Switzerland","Europe","CHE","Subnat","CHEr104","Zurich",0.984,0.982,1.000
+"Syria","Asia/Pacific","SYR","Subnat","SYRr111","Al Hasaka",0.789,0.373,0.505
+"Syria","Asia/Pacific","SYR","Subnat","SYRr106","Al Latakia",0.787,0.526,0.574
+"Syria","Asia/Pacific","SYR","Subnat","SYRr114","Al Qunitara - Quneitra",0.768,0.416,0.559
+"Syria","Asia/Pacific","SYR","Subnat","SYRr109","Al Raka-Raqqa",0.817,0.337,0.515
+"Syria","Asia/Pacific","SYR","Subnat","SYRr112","Al Swida - Sweida",0.810,0.526,0.574
+"Syria","Asia/Pacific","SYR","Subnat","SYRr101","Damascus",0.768,0.499,0.598
+"Syria","Asia/Pacific","SYR","Subnat","SYRr113","Daraa",0.787,0.450,0.567
+"Syria","Asia/Pacific","SYR","Subnat","SYRr110","Der El Zour - Deir Ezzor",0.827,0.374,0.544
+"Syria","Asia/Pacific","SYR","Subnat","SYRr107","Edlab Idleb",0.771,0.385,0.560
+"Syria","Asia/Pacific","SYR","Subnat","SYRr108","Halab - Aleppo",0.794,0.364,0.565
+"Syria","Asia/Pacific","SYR","Subnat","SYRr104","Hamaa",0.801,0.441,0.563
+"Syria","Asia/Pacific","SYR","Subnat","SYRr103","Homs",0.808,0.459,0.577
+"Syria","Asia/Pacific","SYR","Subnat","SYRr102","Rural Damascus",0.798,0.455,0.567
+"Syria","Asia/Pacific","SYR","Subnat","SYRr105","Tartous",0.823,0.495,0.572
+"Tajikistan","Asia/Pacific","TJK","Subnat","TJKr104","DRS",0.804,0.670,0.578
+"Tajikistan","Asia/Pacific","TJK","Subnat","TJKr101","Duchanbe",0.854,0.772,0.655
+"Tajikistan","Asia/Pacific","TJK","Subnat","TJKr105","GBAO",0.804,0.738,0.562
+"Tajikistan","Asia/Pacific","TJK","Subnat","TJKr102","Khatlon",0.776,0.681,0.557
+"Tajikistan","Asia/Pacific","TJK","Subnat","TJKr103","Sughd (formerly Leninabad)",0.795,0.722,0.569
+"Tanzania","Africa","TZA","Subnat","TZAr202"," Arusha, Manyara",0.792,0.472,0.492
+"Tanzania","Africa","TZA","Subnat","TZAr207"," Dar Es Salam",0.676,0.650,0.635
+"Tanzania","Africa","TZA","Subnat","TZAr201"," Dodoma",0.667,0.420,0.437
+"Tanzania","Africa","TZA","Subnat","TZAr211"," Iringa, Njombe",0.743,0.518,0.499
+"Tanzania","Africa","TZA","Subnat","TZAr218"," Kagera",0.689,0.451,0.454
+"Tanzania","Africa","TZA","Subnat","TZAr216"," Kigoma",0.739,0.417,0.455
+"Tanzania","Africa","TZA","Subnat","TZAr203"," Kilimanjaro",0.780,0.597,0.563
+"Tanzania","Africa","TZA","Subnat","TZAr208"," Lindi",0.709,0.407,0.456
+"Tanzania","Africa","TZA","Subnat","TZAr220"," Mara",0.676,0.491,0.476
+"Tanzania","Africa","TZA","Subnat","TZAr212"," Mbeya",0.674,0.495,0.479
+"Tanzania","Africa","TZA","Subnat","TZAr205"," Morogoro",0.738,0.462,0.479
+"Tanzania","Africa","TZA","Subnat","TZAr209"," Mtwara",0.708,0.401,0.459
+"Tanzania","Africa","TZA","Subnat","TZAr219"," Mwanza, Geita",0.696,0.434,0.475
+"Tanzania","Africa","TZA","Subnat","TZAr224"," Pemba North",0.762,0.442,0.540
+"Tanzania","Africa","TZA","Subnat","TZAr225"," Pemba South",0.774,0.508,0.556
+"Tanzania","Africa","TZA","Subnat","TZAr206"," Pwani",0.684,0.437,0.483
+"Tanzania","Africa","TZA","Subnat","TZAr215"," Rukwa, Katavi",0.671,0.380,0.442
+"Tanzania","Africa","TZA","Subnat","TZAr210"," Ruvuma",0.737,0.482,0.481
+"Tanzania","Africa","TZA","Subnat","TZAr217"," Shinyanga, Simiyu",0.686,0.402,0.475
+"Tanzania","Africa","TZA","Subnat","TZAr213"," Singida",0.778,0.459,0.460
+"Tanzania","Africa","TZA","Subnat","TZAr214"," Tabora",0.725,0.331,0.466
+"Tanzania","Africa","TZA","Subnat","TZAr204"," Tanga",0.743,0.475,0.522
+"Tanzania","Africa","TZA","Subnat","TZAr221"," Zanzibar North",0.749,0.501,0.531
+"Tanzania","Africa","TZA","Subnat","TZAr222"," Zanzibar South",0.780,0.590,0.566
+"Tanzania","Africa","TZA","Subnat","TZAr223"," Zanzibar West",0.763,0.696,0.698
+"Thailand","Asia/Pacific","THA","Subnat","THAr101","Bangkok",0.903,0.849,0.770
+"Thailand","Asia/Pacific","THA","Subnat","THAr102","Central",0.892,0.752,0.777
+"Thailand","Asia/Pacific","THA","Subnat","THAr103","North",0.899,0.692,0.778
+"Thailand","Asia/Pacific","THA","Subnat","THAr104","Northeast",0.902,0.677,0.780
+"Thailand","Asia/Pacific","THA","Subnat","THAr105","South",0.908,0.705,0.770
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr101","Aileu",0.751,0.501,0.558
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr102","Ainaro",0.698,0.451,0.513
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr103","Baucau",0.729,0.485,0.565
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr104","Bobonaro",0.745,0.461,0.579
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr105","Cova Lima",0.761,0.504,0.553
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr106","Dili",0.743,0.712,0.688
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr107","Ermera",0.751,0.410,0.520
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr109","Lautem",0.752,0.462,0.581
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr108","Liquica",0.786,0.523,0.561
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr111","Manatuto",0.735,0.522,0.556
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr110","Manufahi",0.729,0.511,0.576
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr112","Oecussi",0.657,0.483,0.502
+"Timor Leste","Asia/Pacific","TLS","Subnat","TLSr113","Viqueque",0.716,0.513,0.544
+"Togo","Africa","TGO","Subnat","TGOr104","Centrale",0.642,0.508,0.449
+"Togo","Africa","TGO","Subnat","TGOr105","Kara",0.599,0.491,0.445
+"Togo","Africa","TGO","Subnat","TGOr101","Lome",0.652,0.634,0.541
+"Togo","Africa","TGO","Subnat","TGOr102","Maritime",0.625,0.515,0.440
+"Togo","Africa","TGO","Subnat","TGOr103","Plateaux",0.664,0.517,0.427
+"Togo","Africa","TGO","Subnat","TGOr106","Savanes",0.634,0.382,0.419
+"Tonga","Asia/Pacific","TON","Subnat","TONr104","Eua",0.784,0.761,0.627
+"Tonga","Asia/Pacific","TON","Subnat","TONr103","Ha-apai",0.784,0.772,0.569
+"Tonga","Asia/Pacific","TON","Subnat","TONr105","Ongo Niua",0.784,0.800,0.559
+"Tonga","Asia/Pacific","TON","Subnat","TONr101","Tongatapu",0.784,0.840,0.652
+"Tonga","Asia/Pacific","TON","Subnat","TONr102","Vava-u",0.784,0.806,0.622
+"Trinidad & Tobago","America","TTO","Subnat","TTOr103","Central",0.815,0.799,0.835
+"Trinidad & Tobago","America","TTO","Subnat","TTOr102","East",0.815,0.744,0.793
+"Trinidad & Tobago","America","TTO","Subnat","TTOr101","North West",0.815,0.808,0.822
+"Trinidad & Tobago","America","TTO","Subnat","TTOr104","South West",0.815,0.780,0.818
+"Trinidad & Tobago","America","TTO","Subnat","TTOr105","Tobago",0.815,0.759,0.829
+"Tunisia","Africa","TUN","Subnat","TUNr105","Centre Est (Sousse, Monastir, Mahdia, Sfax)",0.827,0.667,0.703
+"Tunisia","Africa","TUN","Subnat","TUNr104","Centre Ouest (Kairouan, Kasserine, Sidi Bouzid)",0.776,0.573,0.671
+"Tunisia","Africa","TUN","Subnat","TUNr101","Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)",0.847,0.764,0.720
+"Tunisia","Africa","TUN","Subnat","TUNr102","Nord Est (Nabeul, Zaghouan, Bizerte)",0.805,0.662,0.694
+"Tunisia","Africa","TUN","Subnat","TUNr103","Nord Ouest (Beja, Jendouba, Kef, Siliana)",0.810,0.636,0.689
+"Tunisia","Africa","TUN","Subnat","TUNr107","Sud Est (Gabes, Medinine, Tataouine)",0.838,0.668,0.695
+"Tunisia","Africa","TUN","Subnat","TUNr106","Sud Ouest (Gafsa, Tozeur, Kebili)",0.803,0.691,0.689
+"Turkey","Asia/Pacific","TUR","Subnat","TURr103","Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Man",0.859,0.787,0.864
+"Turkey","Asia/Pacific","TUR","Subnat","TURr107","Central Anatolia (Kayseri, Kirsehir, Nevsehir, Nig",0.858,0.780,0.813
+"Turkey","Asia/Pacific","TUR","Subnat","TURr111","Central East Anatolia (Bingol, Bitlis, Elazig, Hak",0.862,0.720,0.745
+"Turkey","Asia/Pacific","TUR","Subnat","TURr109","East Black Sea (Artvin, Giresun, Gumushane, Ordu,",0.885,0.784,0.797
+"Turkey","Asia/Pacific","TUR","Subnat","TURr104","East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskiseh",0.857,0.791,0.895
+"Turkey","Asia/Pacific","TUR","Subnat","TURr101","Istanbul",0.867,0.788,0.955
+"Turkey","Asia/Pacific","TUR","Subnat","TURr106","Mediterranean (Adana, Antalya, Burdur, Hatay, Ispa",0.861,0.756,0.831
+"Turkey","Asia/Pacific","TUR","Subnat","TURr110","North East Anatolia (Agri, Erzincan, Erzurum, Kars",0.856,0.775,0.763
+"Turkey","Asia/Pacific","TUR","Subnat","TURr112","South East Anatolia (Adiyaman, Diyarbakir, Gaziant",0.856,0.693,0.747
+"Turkey","Asia/Pacific","TUR","Subnat","TURr105","West Anatolia (Ankara, Konya, Karaman)",0.870,0.799,0.896
+"Turkey","Asia/Pacific","TUR","Subnat","TURr108","West Black Sea (Amasya, Cankiri, Corum, Kastamonu,",0.860,0.778,0.792
+"Turkey","Asia/Pacific","TUR","Subnat","TURr102","West Marmara (Balikesir, Canakkale, Edirne, Kirkla",0.852,0.790,0.874
+"Turkmenistan","Asia/Pacific","TKM","Subnat","TKMr102","Akhal",0.762,0.726,0.730
+"Turkmenistan","Asia/Pacific","TKM","Subnat","TKMr101","Ashgabat City",0.788,0.828,0.788
+"Turkmenistan","Asia/Pacific","TKM","Subnat","TKMr103","Balkan",0.772,0.747,0.751
+"Turkmenistan","Asia/Pacific","TKM","Subnat","TKMr104","Dashoguz",0.752,0.710,0.708
+"Turkmenistan","Asia/Pacific","TKM","Subnat","TKMr105","Lebap",0.777,0.742,0.736
+"Turkmenistan","Asia/Pacific","TKM","Subnat","TKMr106","Mary",0.720,0.733,0.720
+"Tuvalu","Asia/Pacific","TUV","Subnat","TUVr103","Funafuti",0.679,0.661,0.646
+"Tuvalu","Asia/Pacific","TUV","Subnat","TUVr101","Nanumea, Nanumaga, Niutao",,0.490,0.594
+"Tuvalu","Asia/Pacific","TUV","Subnat","TUVr102","Vaitupu, Nui, Nukufetau",,0.531,0.614
+"Uganda","Africa","UGA","Subnat","UGAr101","Central 1 (Central South)",0.687,0.538,0.534
+"Uganda","Africa","UGA","Subnat","UGAr102","Central 2 (Central North)",0.655,0.487,0.485
+"Uganda","Africa","UGA","Subnat","UGAr104","East Central (Busoga)",0.634,0.496,0.462
+"Uganda","Africa","UGA","Subnat","UGAr105","Eastern (Bukedi, Bugishu, Teso)",0.675,0.487,0.438
+"Uganda","Africa","UGA","Subnat","UGAr103","Kampala",0.676,0.621,0.609
+"Uganda","Africa","UGA","Subnat","UGAr106","North (Karamoja, Lango, Acholi)",0.654,0.391,0.414
+"Uganda","Africa","UGA","Subnat","UGAr109","Southwest (Ankole, Kigezi)",0.663,0.458,0.451
+"Uganda","Africa","UGA","Subnat","UGAr107","West Nile",0.631,0.429,0.416
+"Uganda","Africa","UGA","Subnat","UGAr108","Western (Bunyoro, Tooro)",0.634,0.428,0.449
+"Ukraine","Europe","UKR","Subnat","UKRr102","Central",0.794,0.785,0.718
+"Ukraine","Europe","UKR","Subnat","UKRr103","East",0.794,0.792,0.753
+"Ukraine","Europe","UKR","Subnat","UKRr101","North",0.794,0.801,0.733
+"Ukraine","Europe","UKR","Subnat","UKRr104","South",0.794,0.788,0.752
+"Ukraine","Europe","UKR","Subnat","UKRr105","West",0.794,0.766,0.721
+"United Kingdom","Europe","GBR","Subnat","GBRr104","East Midlands",0.932,0.921,0.890
+"United Kingdom","Europe","GBR","Subnat","GBRr106","East of England",0.947,0.895,0.909
+"United Kingdom","Europe","GBR","Subnat","GBRr107","London",0.958,0.963,1.000
+"United Kingdom","Europe","GBR","Subnat","GBRr101","North East",0.912,0.917,0.874
+"United Kingdom","Europe","GBR","Subnat","GBRr102","North West",0.918,0.925,0.903
+"United Kingdom","Europe","GBR","Subnat","GBRr112","Northern Ireland",0.928,0.880,0.881
+"United Kingdom","Europe","GBR","Subnat","GBRr111","Scotland",0.903,0.948,0.914
+"United Kingdom","Europe","GBR","Subnat","GBRr108","South East",0.954,0.935,0.937
+"United Kingdom","Europe","GBR","Subnat","GBRr109","South West",0.947,0.925,0.903
+"United Kingdom","Europe","GBR","Subnat","GBRr110","Wales",0.920,0.902,0.874
+"United Kingdom","Europe","GBR","Subnat","GBRr105","West Midlands",0.926,0.919,0.894
+"United Kingdom","Europe","GBR","Subnat","GBRr103","Yorkshire and The Humber",0.923,0.916,0.886
+"United States","America","USA","Subnat","USAr101","Alabama",0.827,0.887,0.931
+"United States","America","USA","Subnat","USAr102","Alaska",0.871,0.923,1.000
+"United States","America","USA","Subnat","USAr103","Arizona",0.891,0.898,0.936
+"United States","America","USA","Subnat","USAr104","Arkansas",0.836,0.881,0.927
+"United States","America","USA","Subnat","USAr105","California",0.909,0.887,1.000
+"United States","America","USA","Subnat","USAr106","Colorado",0.897,0.948,0.984
+"United States","America","USA","Subnat","USAr107","Connecticut",0.909,0.939,1.000
+"United States","America","USA","Subnat","USAr108","Delaware",0.872,0.920,1.000
+"United States","America","USA","Subnat","USAr109","District of Columbia",0.844,0.983,1.000
+"United States","America","USA","Subnat","USAr110","Florida",0.887,0.906,0.940
+"United States","America","USA","Subnat","USAr111","Georgia",0.854,0.903,0.959
+"United States","America","USA","Subnat","USAr112","Hawaii",0.916,0.926,0.980
+"United States","America","USA","Subnat","USAr113","Idaho",0.889,0.908,0.923
+"United States","America","USA","Subnat","USAr114","Illinois",0.881,0.920,0.988
+"United States","America","USA","Subnat","USAr115","Indiana",0.860,0.903,0.961
+"United States","America","USA","Subnat","USAr116","Iowa",0.892,0.922,0.977
+"United States","America","USA","Subnat","USAr117","Kansas",0.877,0.924,0.966
+"United States","America","USA","Subnat","USAr118","Kentucky",0.836,0.882,0.938
+"United States","America","USA","Subnat","USAr119","Louisiana",0.832,0.881,0.956
+"United States","America","USA","Subnat","USAr120","Maine",0.884,0.930,0.938
+"United States","America","USA","Subnat","USAr121","Maryland",0.878,0.941,0.992
+"United States","America","USA","Subnat","USAr122","Massachusetts",0.904,0.947,1.000
+"United States","America","USA","Subnat","USAr123","Michigan",0.869,0.918,0.954
+"United States","America","USA","Subnat","USAr124","Minnesota",0.913,0.943,0.987
+"United States","America","USA","Subnat","USAr125","Mississippi",0.821,0.872,0.907
+"United States","America","USA","Subnat","USAr126","Missouri",0.859,0.912,0.954
+"United States","America","USA","Subnat","USAr127","Montana",0.874,0.935,0.939
+"United States","America","USA","Subnat","USAr128","Nebraska",0.894,0.923,0.985
+"United States","America","USA","Subnat","USAr129","Nevada",0.868,0.890,0.956
+"United States","America","USA","Subnat","USAr130","New Hampshire",0.901,0.948,0.981
+"United States","America","USA","Subnat","USAr131","New Jersey",0.901,0.933,0.996
+"United States","America","USA","Subnat","USAr132","New Mexico",0.872,0.885,0.947
+"United States","America","USA","Subnat","USAr133","New York",0.904,0.913,1.000
+"United States","America","USA","Subnat","USAr134","North Carolina",0.863,0.903,0.958
+"United States","America","USA","Subnat","USAr135","North Dakota",0.889,0.934,1.000
+"United States","America","USA","Subnat","USAr136","Ohio",0.863,0.913,0.968
+"United States","America","USA","Subnat","USAr137","Oklahoma",0.835,0.898,0.959
+"United States","America","USA","Subnat","USAr138","Oregon",0.889,0.927,0.978
+"United States","America","USA","Subnat","USAr139","Pennsylvania",0.874,0.918,0.979
+"United States","America","USA","Subnat","USAr140","Rhode Island",0.895,0.913,0.969
+"United States","America","USA","Subnat","USAr141","South Carolina",0.851,0.899,0.930
+"United States","America","USA","Subnat","USAr142","South Dakota",0.889,0.923,0.970
+"United States","America","USA","Subnat","USAr143","Tennessee",0.841,0.895,0.954
+"United States","America","USA","Subnat","USAr144","Texas",0.874,0.878,0.987
+"United States","America","USA","Subnat","USAr145","Utah",0.900,0.932,0.959
+"United States","America","USA","Subnat","USAr146","Vermont",0.904,0.945,0.956
+"United States","America","USA","Subnat","USAr147","Virginia",0.881,0.931,0.981
+"United States","America","USA","Subnat","USAr148","Washington",0.895,0.933,0.996
+"United States","America","USA","Subnat","USAr149","West Virginia",0.827,0.879,0.927
+"United States","America","USA","Subnat","USAr150","Wisconsin",0.897,0.924,0.967
+"United States","America","USA","Subnat","USAr151","Wyoming",0.871,0.930,1.000
+"Uruguay","America","URY","Subnat","URYr105","Centro (Durazno and Tacuarembo)",0.853,0.698,0.809
+"Uruguay","America","URY","Subnat","URYr106","Centro Sur (Flores, Florida and Lavalleja)",0.853,0.763,0.806
+"Uruguay","America","URY","Subnat","URYr103","Costa Este (Canelones, Maldonado and Rocha)",0.853,0.770,0.814
+"Uruguay","America","URY","Subnat","URYr107","Litoral Norte (Paysandu, Salto and Rio Negro)",0.853,0.662,0.806
+"Uruguay","America","URY","Subnat","URYr104","Litoral Sur (Soriano, Colonia and San Jose)",0.853,0.683,0.805
+"Uruguay","America","URY","Subnat","URYr101","Montevideo and Metropolitan area",0.853,0.813,0.811
+"Uruguay","America","URY","Subnat","URYr102","Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)",0.853,0.687,0.803
+"Uzbekistan","Asia/Pacific","UZB","Subnat","UZBr102","Central (Navoi, Bukhara, Samarkand)",0.771,0.737,0.655
+"Uzbekistan","Asia/Pacific","UZB","Subnat","UZBr104","Central-East (Dzhizak, Syrdarya)",0.848,0.744,0.663
+"Uzbekistan","Asia/Pacific","UZB","Subnat","UZBr105","East (Namangan, Fergana, Andizhan)",0.794,0.736,0.638
+"Uzbekistan","Asia/Pacific","UZB","Subnat","UZBr103","South (Kashkadarya, Surkhandarya)",0.738,0.733,0.618
+"Uzbekistan","Asia/Pacific","UZB","Subnat","UZBr106","Tashkent",0.828,0.821,0.791
+"Uzbekistan","Asia/Pacific","UZB","Subnat","UZBr101","West (Karakalpakstan, Khorezm)",0.764,0.744,0.671
+"Vanuatu","Asia/Pacific","VUT","Subnat","VUTr108","Luganville",0.776,0.700,0.632
+"Vanuatu","Asia/Pacific","VUT","Subnat","VUTr103","Malampa",0.776,0.558,0.457
+"Vanuatu","Asia/Pacific","VUT","Subnat","VUTr104","Penama",0.776,0.471,0.444
+"Vanuatu","Asia/Pacific","VUT","Subnat","VUTr107","Port Vila",0.776,0.703,0.673
+"Vanuatu","Asia/Pacific","VUT","Subnat","VUTr105","Sanma",0.776,0.504,0.468
+"Vanuatu","Asia/Pacific","VUT","Subnat","VUTr102","Shefa",0.776,0.508,0.550
+"Vanuatu","Asia/Pacific","VUT","Subnat","VUTr101","Tafea",0.776,0.485,0.461
+"Vanuatu","Asia/Pacific","VUT","Subnat","VUTr106","Torba",0.776,0.487,0.433
+"Venezuela","America","VEN","Subnat","VENr110","Amacuros Delta Federal Territory",0.784,0.711,0.553
+"Venezuela","America","VEN","Subnat","VENr102","Amazonas Federal Territory",0.717,0.750,0.564
+"Venezuela","America","VEN","Subnat","VENr103","Anzoategui",0.798,0.741,0.587
+"Venezuela","America","VEN","Subnat","VENr104","Apure",0.785,0.602,0.502
+"Venezuela","America","VEN","Subnat","VENr105","Aragua",0.796,0.766,0.607
+"Venezuela","America","VEN","Subnat","VENr106","Barinas",0.774,0.622,0.538
+"Venezuela","America","VEN","Subnat","VENr107","Bolivar",0.776,0.745,0.581
+"Venezuela","America","VEN","Subnat","VENr108","Carabobo",0.786,0.763,0.604
+"Venezuela","America","VEN","Subnat","VENr109","Cojedes",0.764,0.693,0.562
+"Venezuela","America","VEN","Subnat","VENr111","Falcon",0.787,0.702,0.571
+"Venezuela","America","VEN","Subnat","VENr101","Federal District",0.777,0.814,0.633
+"Venezuela","America","VEN","Subnat","VENr112","Guarico",0.784,0.654,0.542
+"Venezuela","America","VEN","Subnat","VENr113","Lara",0.770,0.696,0.564
+"Venezuela","America","VEN","Subnat","VENr114","Merida",0.771,0.700,0.580
+"Venezuela","America","VEN","Subnat","VENr115","Miranda",0.779,0.788,0.618
+"Venezuela","America","VEN","Subnat","VENr116","Monagas",0.777,0.717,0.570
+"Venezuela","America","VEN","Subnat","VENr117","Nueva Esparta",0.787,0.753,0.609
+"Venezuela","America","VEN","Subnat","VENr118","Portuguesa",0.755,0.635,0.540
+"Venezuela","America","VEN","Subnat","VENr119","Sucre",0.774,0.665,0.558
+"Venezuela","America","VEN","Subnat","VENr120","Tachira",0.788,0.702,0.590
+"Venezuela","America","VEN","Subnat","VENr121","Trujillo",0.782,0.659,0.557
+"Venezuela","America","VEN","Subnat","VENr124","Vargas",0.807,0.742,0.603
+"Venezuela","America","VEN","Subnat","VENr122","Yaracuy",0.766,0.667,0.555
+"Venezuela","America","VEN","Subnat","VENr123","Zulia",0.764,0.705,0.576
+"Vietnam","Asia/Pacific","VNM","Subnat","VNMr104","Central Highlands",0.807,0.576,0.623
+"Vietnam","Asia/Pacific","VNM","Subnat","VNMr106","Mekong River Delta",0.822,0.543,0.652
+"Vietnam","Asia/Pacific","VNM","Subnat","VNMr103","North Central Coast and South Central Coast",0.846,0.647,0.655
+"Vietnam","Asia/Pacific","VNM","Subnat","VNMr102","North East, North West",0.796,0.586,0.623
+"Vietnam","Asia/Pacific","VNM","Subnat","VNMr101","Red River Delta",0.849,0.713,0.681
+"Vietnam","Asia/Pacific","VNM","Subnat","VNMr105","South East",0.813,0.662,0.677
+"Yemen","Asia/Pacific","YEM","Subnat","YEMr102","Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",0.706,0.420,0.436
+"Yemen","Asia/Pacific","YEM","Subnat","YEMr104","Beida (Al Bayda), Dhamar, Raimah",0.642,0.299,0.353
+"Yemen","Asia/Pacific","YEM","Subnat","YEMr107","Hajja, Sada, Amran (Omran)",0.679,0.281,0.323
+"Yemen","Asia/Pacific","YEM","Subnat","YEMr108","Hodeida (Al Hudaydah), Mahweit (Al Mahwit)",0.654,0.302,0.340
+"Yemen","Asia/Pacific","YEM","Subnat","YEMr101","Ibb",0.665,0.349,0.392
+"Yemen","Asia/Pacific","YEM","Subnat","YEMr106","Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",0.718,0.393,0.459
+"Yemen","Asia/Pacific","YEM","Subnat","YEMr103","Sana a (capital; Al Amana), Sana a (governorate)",0.688,0.435,0.472
+"Yemen","Asia/Pacific","YEM","Subnat","YEMr105","Taiz",0.668,0.410,0.379
+"Zambia","Africa","ZMB","Subnat","ZMBr101","Central",0.676,0.515,0.508
+"Zambia","Africa","ZMB","Subnat","ZMBr102","Copperbelt",0.670,0.619,0.606
+"Zambia","Africa","ZMB","Subnat","ZMBr103","Eastern",0.635,0.434,0.478
+"Zambia","Africa","ZMB","Subnat","ZMBr104","Luapula",0.537,0.476,0.465
+"Zambia","Africa","ZMB","Subnat","ZMBr105","Lusaka",0.635,0.645,0.627
+"Zambia","Africa","ZMB","Subnat","ZMBr107","North-Western",0.732,0.558,0.491
+"Zambia","Africa","ZMB","Subnat","ZMBr106","Northern",0.622,0.491,0.460
+"Zambia","Africa","ZMB","Subnat","ZMBr108","Southern",0.620,0.563,0.509
+"Zambia","Africa","ZMB","Subnat","ZMBr109","Western",0.651,0.490,0.434
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr110","Bulawayo",0.656,0.739,0.688
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr109","Harare",0.619,0.732,0.648
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr101","Manicaland",0.594,0.641,0.520
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr102","Mashonaland Central",0.569,0.542,0.496
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr103","Mashonaland East",0.614,0.608,0.524
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr104","Mashonaland West",0.554,0.593,0.532
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr108","Masvingo",0.650,0.602,0.520
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr105","Matebeleland North",0.642,0.519,0.475
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr106","Matebeleland South",0.665,0.566,0.530
+"Zimbabwe","Africa","ZWE","Subnat","ZWEr107","Midlands",0.593,0.635,0.544
